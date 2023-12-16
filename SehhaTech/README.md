@@ -2,7 +2,15 @@
 
 ## About the project:
 
-SehhaTech represents a multimodal AI medical assistant that supports both standard Arabic and regional dialects, allowing patients to interact using various modalities, including audio, text, and medical imagery. This experience closely replicates an interaction with an experienced healthcare provider. As a result, our solution effectively addresses the challenge of healthcare staff shortages, primarily due to its report generation system. This system comprehends patients' concerns, asks concise questions, and delivers a comprehensive report to the attending clinician, streamlining the healthcare process.
+Certainly! Here's an extended version of the paragraph:
+
+The problem addressed by SehhaTech is the shortage of healthcare staff, a common challenge that many regions face. This shortage often leads to increased workload on existing healthcare providers, longer wait times for patients, and challenges in delivering timely and effective healthcare services. The shortage is particularly prominent in areas where the demand for healthcare services exceeds the available workforce. This issue can result in delayed diagnoses, increased patient dissatisfaction, and overall inefficiencies in the healthcare system.
+
+SehhaTech aims to mitigate this problem by introducing a multimodal AI medical assistant. The system supports both standard Arabic and regional dialects, making it accessible to a broader population. Patients can interact with the assistant using various modalities such as audio, text, and medical imagery, providing a versatile and inclusive means of communication.
+
+The key innovation lies in the system's ability to closely replicate an interaction with an experienced healthcare provider. By comprehending patients' concerns and asking concise questions, SehhaTech efficiently collects relevant information. The solution's report generation system plays a crucial role in streamlining the healthcare process. It translates the gathered information into a comprehensive report that is then delivered to the attending clinician. This not only helps in expediting the diagnostic process but also ensures that healthcare providers have a detailed overview of the patient's condition, enabling them to make more informed decisions.
+
+Additionally, SehhaTech goes beyond traditional assistance by utilizing its conversational capabilities to identify the specific medical specialty the patient needs. Through the dialogue with the patient, the system determines the appropriate specialty for further examination or treatment. Moreover, it goes a step further by proposing a list of suitable doctors within the identified specialty, thereby facilitating the patient's decision-making process and expediting the referral to the right healthcare professional. This feature not only enhances the overall efficiency of the healthcare system but also contributes to a more personalized and streamlined patient experience.
 
 ## Team
 
