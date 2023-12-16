@@ -76,6 +76,9 @@ A report with a predefined format is automatically generated as part of our proj
 
 https://github.com/Yassmine2020/SehhaTech/assets/85367800/e39b1acb-203c-4ce2-9b80-43fa61bfea1a
 
+## Presentation of our work:
+To take a look at your presentation, you can check the following PDF document.
+
 ## Project Structure:
 
  ├─[SourceCode](Source%20Code)<br>
