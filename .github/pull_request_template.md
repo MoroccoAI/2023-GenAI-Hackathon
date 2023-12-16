@@ -10,6 +10,8 @@ Please ensure your submission includes the following components:
     - A video demonstration.
     - An animated GIF showcasing the project's functionality.
     - A link to a hosted version of your project (if applicable).
+   
+- [ ] **Pitch Slides: send in pdf format**
 
 - [ ] **Code and Documentation:**
   - All relevant notebooks and/or scripts used in your project.
