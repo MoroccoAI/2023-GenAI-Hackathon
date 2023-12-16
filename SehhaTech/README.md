@@ -51,8 +51,8 @@ The core of our system consists of two crucial parts:
 - **VLM (Visual Language Model):** *[Med-Flamingo](https://github.com/snap-stanford/med-flamingo)*
   - Answers questions with images.
 
-- **LLM (Language Language Model):** *OpenAI API or [Meditron 7B](https://github.com/epfLLM/meditron?tab=readme-ov-file) (fine-tuned using [HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view))*
-  - Manages the conversationalist aspect of our application.
+- **LLM (Language Language Model):** *OpenAI API or [Meditron 7B](https://github.com/epfLLM/meditron?tab=readme-ov-file) (fine-tuned using [HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view) and [PEFT](https://github.com/huggingface/peft))*
+  - Manages the conversationalist aspect of our application. We used in this sense: [Few shot Prompting](https://promptengineering.org/master-prompting-concepts-zero-shot-and-few-shot-prompting/#:~:text=What%20is%20Few%2DShot%20Prompting,examples%20of%20input%2Doutput%20pairs), [CoT](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97).
 
 ### 5. Doctor's Recommendation
 
@@ -64,19 +64,13 @@ In this segment, the following steps were taken:
 
 3. Clicking on the **Precautions Recommended Doctors/Specialists** button retrieves the most suitable doctor profiles and precautions using a similarity search via *ChromaDB query method*.
 
-4. The search results are inserted into the context of the LLM, and a comprehensive response on precautions and recommended doctors is generated.
+4. The search results are inserted into the context of the LLM using [LangChain](https://python.langchain.com/docs/get_started/introduction), and a comprehensive response on precautions and recommended doctors is generated.
 
 ### 6. Report Generation
 
 A report with a predefined format is automatically generated as part of our project's output.
 
  
-
-## Notes:
-
-In the process of developing this work, we drew inspiration from and gained insights from various technologies and sources, including:[Med- Flamingo](https://arxiv.org/pdf/2307.15189v1.pdf), [LangChain](https://python.langchain.com/docs/get_started/introduction), [SeamlessM4T](https://github.com/facebookresearch/seamless_communication), [Gradio](https://www.gradio.app/), [Few shot Prompting](https://promptengineering.org/master-prompting-concepts-zero-shot-and-few-shot-prompting/#:~:text=What%20is%20Few%2DShot%20Prompting,examples%20of%20input%2Doutput%20pairs), [CoT](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97), [PEFT](https://github.com/huggingface/peft). <br>
-    
-These references have played a significant role in shaping our work and expanding our knowledge in this field.
 
 ## Visualization:
 
