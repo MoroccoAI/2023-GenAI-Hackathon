@@ -42,13 +42,13 @@ Speech to text functionality is achieved through the collaboration of two models
 For text-to-speech, we utilized the capabilities of:
 
 - [ElevenLabs](https://elevenlabs.io/)
-- [Google Cloud Speech API]([https://elevenlabs.io/](https://cloud.google.com/speech-to-text/?utm_source=google&utm_medium=cpc&utm_campaign=emea-ma-all-en-dr-bkws-all-all-trial-e-gcp-1605140&utm_content=text-ad-none-any-DEV_c-CRE_677711114152-ADGP_Hybrid+%7C+BKWS+-+MIX+%7C+Txt+~+AI+%26+ML+~+Speech-to-Text-KWID_43700078347492349-aud-606988877974:kwd-901963406054-userloc_1029455&utm_term=KW_speech%20text%20google-NET_g-PLAC_&&gad_source=1&gclid=Cj0KCQiAsvWrBhC0ARIsAO4E6f-yOIENKYaHOhTlT3FpnNfLF2d2HO94M4Uq8Pug1LWtFVM2-99fDWoaAjNKEALw_wcB&gclsrc=aw.ds))
+- [Google Cloud Speech API](https://cloud.google.com/speech-to-text/docs/reference/rest)
 
 ### 4. The Model
 
 The core of our system consists of two crucial parts:
 
-- **VLM (Visual Language Model):** *[Med-Flamingo](https://arxiv.org/pdf/2307.15189v1.pdf](https://github.com/snap-stanford/med-flamingo)*
+- **VLM (Visual Language Model):** *[Med-Flamingo](https://github.com/snap-stanford/med-flamingo)*
   - Answers questions with images.
 
 - **LLM (Language Language Model):** *OpenAI API or [Meditron 7B](https://github.com/epfLLM/meditron?tab=readme-ov-file) (fine-tuned using [HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view))*
