@@ -23,7 +23,7 @@ Additionally, SehhaTech goes beyond traditional assistance by utilizing its conv
   <img src="overview.png" alt="System's Architecture">
 </p>
 Our project consists of 4 components:
-**Speech to text**:
+#### Speech to text:
 ## Notes:
 
 In the process of developing this work, we drew inspiration from and gained insights from various technologies and sources, including:[Med- Flamingo](https://arxiv.org/pdf/2307.15189v1.pdf), [LangChain](https://python.langchain.com/docs/get_started/introduction), [SeamlessM4T](https://github.com/facebookresearch/seamless_communication), [Gradio](https://www.gradio.app/), [Few shot Prompting](https://promptengineering.org/master-prompting-concepts-zero-shot-and-few-shot-prompting/#:~:text=What%20is%20Few%2DShot%20Prompting,examples%20of%20input%2Doutput%20pairs), [CoT](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97), [PEFT](https://github.com/huggingface/peft). <br>
