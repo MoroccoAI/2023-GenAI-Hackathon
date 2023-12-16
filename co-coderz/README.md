@@ -15,18 +15,26 @@
 ## Introduction
 ### Background and Problem Statement: 
 Describe the context and the specific problem your project addresses.
+
 ### Impact and Proposed Solution: 
 Explain the potential impact of your solution and how it addresses the problem.
 ### Project Outcomes and Deliverables: 
 List the expected outcomes and deliverables of your project.
 
-
 ## Learn More 
 ### Demo Recording/GIF: 
-Provide a video recording or GIF demonstrating your project in action.
+![Demo GIF 1](/poc1.gif)
+![Demo GIF 2](/poc2.gif)
+
+Try the demo yourself on our website [hyprsol.com/beta](https://hyprsol.com/beta).
+
 ### Presentation PDF: 
-Include a PDF of your project presentation.
+For a comprehensive overview of HyprSol, check out our pitch at [hyprsol.com/pitch](https://hyprsol.com/pitch).
+
 
 ## Getting Started:
 ### Code and Files:
+
+
+
 ### Instructions:
