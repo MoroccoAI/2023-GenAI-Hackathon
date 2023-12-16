@@ -1,9 +1,11 @@
 # Smart فْلاّح 🌱
 
+<img src="Smart-felah.png" alt="Logo" width="500" height="450">
+
 > *Unknown Fella7* - "يد الفلاح نقية"
 <br>
 
-# 👩🏻‍🌾 🌽 Farmers
+# 👩🏻‍🌾 🌽 🇲🇦 Farmers
 
 [@Mohammed Machrouh](https://github.com/medmac01) - Senior Farmer
 
