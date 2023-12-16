@@ -23,8 +23,8 @@ List the expected outcomes and deliverables of your project.
 
 ## Learn More 
 ### Demo Recording/GIF: 
-![Demo GIF 1](/poc1.gif)
-![Demo GIF 2](/poc2.gif)
+![Demo GIF 1](poc1.gif)
+![Demo GIF 2](poc2.gif)
 
 Try the demo yourself on our website [hyprsol.com/beta](https://hyprsol.com/beta).
 
