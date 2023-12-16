@@ -52,7 +52,7 @@ The core of our system consists of two crucial parts:
   - Answers questions with images.
 
 - **LLM (Language Language Model):** *OpenAI API or [Meditron 7B](https://github.com/epfLLM/meditron?tab=readme-ov-file) (fine-tuned using [HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view) and [PEFT](https://github.com/huggingface/peft))*
-  - Manages the conversationalist aspect of our application. We used in this sense: [Few shot Prompting](https://promptengineering.org/master-prompting-concepts-zero-shot-and-few-shot-prompting/#:~:text=What%20is%20Few%2DShot%20Prompting,examples%20of%20input%2Doutput%20pairs), [CoT](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97).
+  - Manages the conversationalist aspect of our application. We used in this sense [Few shot Prompting](https://promptengineering.org/master-prompting-concepts-zero-shot-and-few-shot-prompting/#:~:text=What%20is%20Few%2DShot%20Prompting,examples%20of%20input%2Doutput%20pairs) and [CoT](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97).
 
 ### 5. Doctor's Recommendation
 
