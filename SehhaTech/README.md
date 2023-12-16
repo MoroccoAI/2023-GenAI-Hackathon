@@ -76,6 +76,17 @@ A report with a predefined format is automatically generated as part of our proj
 
 https://github.com/Yassmine2020/SehhaTech/assets/85367800/e39b1acb-203c-4ce2-9b80-43fa61bfea1a
 
+## Evaluation and Safety:
+
+For the safety aspect of our solution, the chatbot is only intended to be used to understand one's symptoms and find adequate doctors to visit. To enhance the accuracy and hence the safety of SehhaTech, we prepared an evaluation application for doctors to evaluate the system for us to develop it further.
+
+<p align="center">
+  <img src="overview.png" alt="System's Architecture">
+</p>
+<p align="center">
+  <img src="overview.png" alt="System's Architecture">
+</p>
+
 ## Presentation of our work:
 To take a look at the presentation of SehhaTech, you can check the following PDF document.
 
