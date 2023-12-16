@@ -1,3 +1,4 @@
+
 # SehhaTech
 
 ## Background and problem statement:
@@ -25,14 +26,23 @@ Additionally, SehhaTech goes beyond traditional assistance by utilizing its conv
 Our project consists of 4 components:
 
 **- Speech to text:** assured by *wav2vec2-large-xlsr-moroccan* and *Whisper*.
+
 **- Translation:** assured by SeamlessM4T.
+
 **- Text to speech:** we used for that ElevenLabs and Google Cloud Speech API too.
+
 **- The model:** or the heart of the system is composed from 2 parts: a VLM *Med-Flamingo* that answers questions with images and an LLM *OpenAI API or Meditron 7B* for the conversationalist aspect of our application.
+
 **- Doctor's recommendation:** In this part, the steps below were followed: 
+
       1- We used a kaggle [dataset](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?select=symptom_Description.csv ) about diseases, their symptoms, and precautions, processed it and then added to the dataset the profiles of recommended doctors (name, speciality, address, phone, etc). Due to the non availability of dat, those profiles were just generated. That final dataset is called Symptoms_Doctors_dataset.csv
+      
       2- The final dataset was embedded and stored in a vector database using *ChromaDB*.
+      
       3- When the patient click on **Precautions Recommended doctors/specialist** button, we retrieve the most suitable doctor profiles and precautions using a similarity search. This search is taken care of by *ChromaDB query method*.
+      
       4- Insert the results of the search in the context of LLM, and then finally generate a complete response of precautions Recommended doctors.
+      
 **- Report generation:** A report with a predefined format is generated.
  
 
