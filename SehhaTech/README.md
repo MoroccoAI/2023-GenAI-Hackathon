@@ -24,7 +24,7 @@ Additionally, SehhaTech goes beyond traditional assistance by utilizing its conv
 </p>
 Our project consists of 4 components:
 
-#### Speech to text:
+**Speech to text:** assured 
 
 ## Notes:
 
