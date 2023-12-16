@@ -1,8 +1,10 @@
 # SehhaTech
 
-## About the project:
+## The problem:
 
 The problem addressed by SehhaTech is the shortage of healthcare staff, a common challenge that many regions face. This shortage often leads to increased workload on existing healthcare providers, longer wait times for patients, and challenges in delivering timely and effective healthcare services. This issue can result in delayed diagnoses, increased patient dissatisfaction, and overall inefficiencies in the healthcare system.
+
+## Our solution:
 
 SehhaTech aims to mitigate this problem by introducing a multimodal AI medical assistant. The system supports both standard Arabic and regional dialects, making it accessible to a broader population. Patients can interact with the assistant using various modalities such as audio, text, and medical imagery, providing a versatile and inclusive means of communication.
 
