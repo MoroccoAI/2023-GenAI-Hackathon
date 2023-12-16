@@ -20,7 +20,7 @@ Additionally, SehhaTech goes beyond traditional assistance by utilizing its conv
 ## The illustration of SehhaTech:
 
 <p align="center">
-  <img src="SehhaTech/overview.png" alt="System's Architecture">
+  <img src="overview.png" alt="System's Architecture">
 </p>
 
 ## Notes:
