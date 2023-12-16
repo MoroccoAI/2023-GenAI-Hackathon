@@ -17,7 +17,7 @@ Additionally, SehhaTech goes beyond traditional assistance by utilizing its conv
 -  [Yassmine ED-DYB](https://www.linkedin.com/in/yassmineeddyb/)
 -  [Abir HARRASSE](https://www.linkedin.com/in/abir-harrasse-a5120b20a/)
 
-## The illustration of SehhaTech:
+## Overview of SehhaTech:
 
 <p align="center">
   <img src="overview.png" alt="System's Architecture">
