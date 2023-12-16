@@ -51,7 +51,7 @@ The core of our system consists of two crucial parts:
 - **VLM (Visual Language Model):** *Med-Flamingo*
   - Answers questions with images.
 
-- **LLM (Language Language Model):** *OpenAI API or Meditron 7B*
+- **LLM (Language Language Model):** *OpenAI API or Meditron 7B (fine-tuned using medMCQA dataset)*
   - Manages the conversationalist aspect of our application.
 
 ### 5. Doctor's Recommendation
