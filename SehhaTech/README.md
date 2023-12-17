@@ -73,8 +73,12 @@ A report with a predefined format is automatically generated as part of our proj
 
  
 
-## Visualization:
-![video_demo_](https://github.com/Abir196/2023-GenAI-Hackathon/assets/46868319/cda951af-d66b-4203-be0e-29d588946911)
+## Demo:
+
+
+https://github.com/Abir196/2023-GenAI-Hackathon/assets/46868319/61a7edf0-1594-4685-891c-a0f95fa25dbf
+
+
 
 ## Evaluation and Safety:
 
