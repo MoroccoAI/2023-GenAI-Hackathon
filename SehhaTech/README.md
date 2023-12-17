@@ -81,6 +81,7 @@ https://github.com/Yassmine2020/SehhaTech/assets/85367800/e39b1acb-203c-4ce2-9b8
 
 For the safety aspect of our solution, the chatbot is only intended to be used to understand one's symptoms and find adequate doctors to visit. To enhance the accuracy and hence the safety of SehhaTech, we prepared an evaluation application for doctors to evaluate the system for us to develop it further.
 
+**Evaluation Dataset** : *[VQA-RAD Dataset](https://huggingface.co/datasets/flaviagiammarino/vqa-rad)*
 <p align="center">
   <img src="eval2.png" alt="System's Architecture">
 </p>
