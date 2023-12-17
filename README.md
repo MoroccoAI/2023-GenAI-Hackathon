@@ -7,11 +7,12 @@ Morocco is facing a lack of economic diversification, with the country heavily r
 The lack of economic diversification also contributes to Morocco's relatively low ranking in the Economic Complexity Index (ECI), which measures a country's ability to produce a diverse range of goods and services that are competitive in the global marketplace. With a ranking of 81st out of 133 countries in the ECI, Morocco lags behind many other developing countries, highlighting the urgent need for policy interventions aimed at promoting economic diversification and upgrading the country's industrial base. Failure to address this issue will likely result in missed opportunities for economic growth and development, as well as a failure to realize the country's aspirations for becoming a leading industrial nation.
 
 ## Impact / Proposed Solution 
-<a href = "https://github.com/salmaelbarbori/2023-GenAI-Hackathon/blob/main/elitegenera-financial-geeks/code/CompetitievAdvantage.jpg">
+<a href = "https://github.com/salmaelbarbori/2023-GenAI-Hackathon/blob/main/elitegenera-financial-geeks/code/CompetitievAdvantage.jpg"">
     <img src = "https://github.com/salmaelbarbori/2023-GenAI-Hackathon/blob/main/elitegenera-financial-geeks/code/CompetitievAdvantage.jpg" alt = "CI"  width = "400%" height = "400px"/>
+</a>
 
-Our project:
--Helps Morocco to broaden its export horizons. By harnessing the power of advanced analytics and predictive modeling, we aim to not only optimize existing portfolios but also unveil untapped opportunities that will position Morocco as a competitive force in the global market.​
+### Our project:
+- Helps Morocco to broaden its export horizons. By harnessing the power of advanced analytics and predictive modeling, we aim to not only optimize existing portfolios but also unveil untapped opportunities that will position Morocco as a competitive force in the global market.​
 - Augmented the ability to make informed, data-driven decisions in real-time about Products that bring the most value to Morocco.
 - Position Morocco to thrive in the ever-evolving global economic landscape.
 
