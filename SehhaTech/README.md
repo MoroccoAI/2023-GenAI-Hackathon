@@ -32,6 +32,7 @@ Speech to text functionality is achieved through the collaboration of two models
 
 - *[wav2vec2-large-xlsr-moroccan](https://huggingface.co/othrif/wav2vec2-large-xlsr-moroccan)*
 - *[Whisper](https://github.com/openai/whisper)*
+- *[SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/)*
 
 ### 2. Translation
 
@@ -54,7 +55,7 @@ The core of our system consists of two crucial parts:
 - **LLM (Language Language Model):** *OpenAI API or [Meditron 7B](https://github.com/epfLLM/meditron?tab=readme-ov-file) (fine-tuned using [HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view) and [PEFT](https://github.com/huggingface/peft))*
   - Manages the conversationalist aspect of our application. We used in this sense [Few shot Prompting](https://promptengineering.org/master-prompting-concepts-zero-shot-and-few-shot-prompting/#:~:text=What%20is%20Few%2DShot%20Prompting,examples%20of%20input%2Doutput%20pairs) and [CoT](https://cobusgreyling.medium.com/chain-of-thought-prompting-in-llms-1077164edf97).
 
-### 5. Doctor's Recommendation
+### 5. Doctor's Recommendation (using retrieval augmented generation)
 
 In this segment, the following steps were taken:
 
@@ -93,14 +94,23 @@ To take a look at the presentation of SehhaTech, you can check the following PDF
 ## Project Structure:
 
  ├─[SourceCode](Source%20Code)<br>
- │ ├─[DemoSehhatech](Source%20Code/DemoSehhatech.ipynb)   # Demo code <br>
+ │ ├─[evaluation](Source%20Code/evaluation.ipynb)   # An evaluation app<br>
+ │ ├─[vlm_model](Source%20Code/vlm_model.ipynb)   # Implementation of VLM Model <br>
+ │ ├─[llm_model](Source%20Code/llm_model.ipynb)   # Implementation of the LLM model <br>
+ │ ├─[model_response_](Source%20Code/model_response_.ipynb)   # Handling patient's query to generate a respone using LLM or VLM<br>
+ │ ├─[prompts](Source%20Code/prompts.ipynb)   # Helpful prompts  <br>
+ │ ├─[rag](Source%20Code/rag.ipynb)   # RAG code <br>
+ │ ├─[report_generation](Source%20Code/report_generation.ipynb)   # Report Generation code <br>
+ │ ├─[speech_generation](Source%20Code/speech_generation.ipynb)   # Speech Generation code <br>
+ │ ├─[text_speech_processing](Source%20Code/text_speech_processing.ipynb)   # Text-Speech Processing code <br>
  │ ├─[test](Source%20Code/test)  # test-related files <br>
  │ │ ├─[input_img](Source%20Code/test/input_img)   # Inference images <br>
  │ │ ├─[output_report](Source%20Code/test/output_report)   # Inference result <br>
 
 ## Usage:
 
-To use SehhaTech on your machine you can …
+To use SehhaTech on your machine, follow the next steps :
 
   - Step 1: clone the repository
+  - Step 3: Upload the content of Source Code to Google Colab (the demo notebook and the other modules the /content/ folder
   - Step 2: run the file "DemoSehhatech.ipynb"
