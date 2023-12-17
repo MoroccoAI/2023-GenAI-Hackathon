@@ -1,0 +1,9 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit 
+requests
+pdfplumber
+spacy
+flask
