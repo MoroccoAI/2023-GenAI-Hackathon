@@ -1,4 +1,13 @@
-# Instructions :
-1. `git clone https://huggingface.co/spaces/smart-fellah/Smart-fellah`
-2. `pip install -r requirements.txt`
-3. `streamlit run app.py`
+---
+title: Smart Fellah
+emoji: 👩🏻‍🌾
+colorFrom: green
+colorTo: yellow
+sdk: streamlit
+sdk_version: 1.29.0
+app_file: app.py
+pinned: true
+license: apache-2.0
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
