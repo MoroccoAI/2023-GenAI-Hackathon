@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068395920153",
+    "project_id": "projectfirebasev1",
+    "storage_bucket": "projectfirebasev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068395920153:android:c4dbff072d39cdbc202388",
+        "android_client_info": {
+          "package_name": "com.euromedcompany.orderfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4AScB3igYMoWuKoag0P6jGlZu7C-11Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
