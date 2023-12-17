@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="issueTypes">
+        <item>Waste disposal</item>
+        <item>Water wastage</item>
+        <item>Air pollution</item>
+        <item>Deforestation</item>
+        <item>Soil contamination</item>
+        <item>Other</item>
+    </string-array>
+</resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".EngageFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyclerView"
+        android:paddingStart="0dp"
+        android:paddingEnd="15dp"
+        android:paddingBottom="15dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:textSize="18sp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/lavender"
+        android:id="@+id/recyclerTitle"
+        android:layout_below="@id/recyclerView"/>
+
+    <!--        android:layout_below="@id/recyclerView"-->
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<RelativeLayout-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical">-->
+
+<!--    &lt;!&ndash; White background View &ndash;&gt;-->
+<!--    <View-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:background="@android:color/white"/>-->
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/liveTitle"-->
+<!--        android:text="Live"-->
+<!--        android:textSize="36sp"-->
+<!--        android:layout_marginTop="40dp"-->
+<!--        android:fontFamily="@font/poppins_semibold"-->
+<!--        android:textColor="@color/lavender"-->
+<!--        android:layout_centerHorizontal="true"/>-->
+
+<!--    <ImageView-->
+<!--        android:layout_width="500dp"-->
+<!--        android:layout_height="500dp"-->
+<!--        android:id="@+id/liveImage"-->
+<!--        android:layout_below="@id/liveTitle"-->
+<!--        android:src="@drawable/live"/>-->
+
+<!--</RelativeLayout>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<RelativeLayout-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical"-->
+<!--    android:backgroundTint="@color/white"-->
+<!--    tools:context=".LiveCardActivity">-->
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/liveTitle"-->
+<!--        android:text="Live"-->
+<!--        android:textSize="36sp"-->
+<!--        android:layout_marginTop="40dp"-->
+<!--        android:fontFamily="@font/poppins_semibold"-->
+<!--        android:textColor="@color/lavender"-->
+<!--        android:backgroundTint="@color/white"-->
+<!--        android:layout_centerHorizontal="true"/>-->
+
+<!--    <ImageView-->
+<!--        android:layout_width="500dp"-->
+<!--        android:layout_height="500dp"-->
+<!--        android:id="@+id/liveImage"-->
+<!--        android:layout_below="@id/liveTitle"-->
+<!--        android:src="@drawable/live"/>-->
+
+<!--</RelativeLayout>-->
