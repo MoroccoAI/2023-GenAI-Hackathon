@@ -5,13 +5,13 @@
 > *Unknown Fella7* - "يد الفلاح نقية"
 <br>
 
-# 👩🏻‍🌾 🌽 🇲🇦 Farmers
+# 🌽 🇲🇦 Farmers
 
-[@Mohammed Machrouh](https://github.com/medmac01) - Senior Farmer
+👨🏻‍🌾 [@Mohammed Machrouh](https://github.com/medmac01) - Senior Farmer
 
-[@Marwa el Kamil](https://github.com/maghwa) - Junior Farmer
+👩🏻‍🌾 [@Marwa el Kamil](https://github.com/maghwa) - Senior Farmer
 
-[@Khadija Bayoud](https://github.com/Khadija-Bayoud) - Land Owner
+🧑🏻‍🌾 [@Khadija Bayoud](https://github.com/Khadija-Bayoud) - Land Owner
 
 <br>
 
