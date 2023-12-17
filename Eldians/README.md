@@ -30,7 +30,7 @@ This README summarizes the various phases and accomplishments of our project:
 - **Version 0.2:** Highlights enhancements made, changes in models, conducted tests, results, and identified limitations.
 - **Conclusion and Perspectives:** Offers a conclusion on the achieved milestones, along with future directions and unresolved issues.
 
-You can find more details in the [report](https://github.com/MoroccoAI/2023-GenAI-Hackathon/tree/main/Eldians/Eldians_repot_VisioVista)
+You can find more details in the [report](https://github.com/Lourarhi-Yahya/2023-GenAI-Hackathon/blob/main/Eldians/Eldians_report_VisioVista.pdf)
 
 ---
 
@@ -93,11 +93,11 @@ The system uses the Google Speech Recognition service to convert spoken words to
 
 [Demo](https://github.com/Lourarhi-Yahya/2023-GenAI-Hackathon/blob/main/Eldians/Demo_Eldians_Version_0.2.mp4) (Demo_Eldians_Version_0.2)
 
-[Real time simulation](https://github.com/MoroccoAI/2023-GenAI-Hackathon/tree/main/Eldians/Real_time_demo_video) (Real_time_demo_video)
+[Real time simulation](https://github.com/Lourarhi-Yahya/2023-GenAI-Hackathon/blob/main/Eldians/Real_time_demo_video.mp4) (Real_time_demo_video)
 
 ## Quality and Contributions
 
-We welcome contributions to enhance VisionVista. If you encounter issues or have suggestions, feel free to open an [issue](https://github.com/MoroccoAI/2023-GenAI-Hackathon/tree/main/Eldians/issues) or submit a pull request.
+We welcome contributions to enhance VisionVista. If you encounter issues or have suggestions, feel free to open an [issue](https://github.com/Lourarhi-Yahya/2023-GenAI-Hackathon/blob/main/Eldians/issues) or submit a pull request.
 
 Please follow these guidelines for contributing:
 
