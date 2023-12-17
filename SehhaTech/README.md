@@ -97,7 +97,7 @@ To take a look at the presentation of SehhaTech, you can check the following PDF
 
 ## Project Structure:
 
- ├─[SourceCode](Source%20Code)<br>
+ ├─[**SourceCode**](Source%20Code)<br>
  │ ├─[evaluation](Source%20Code/evaluation.ipynb)   # An evaluation app<br>
  │ ├─[vlm_model](Source%20Code/vlm_model.ipynb)   # Implementation of VLM Model <br>
  │ ├─[llm_model](Source%20Code/llm_model.ipynb)   # Implementation of the LLM model <br>
@@ -107,6 +107,11 @@ To take a look at the presentation of SehhaTech, you can check the following PDF
  │ ├─[report_generation](Source%20Code/report_generation.ipynb)   # Report Generation code <br>
  │ ├─[speech_generation](Source%20Code/speech_generation.ipynb)   # Speech Generation code <br>
  │ ├─[text_speech_processing](Source%20Code/text_speech_processing.ipynb)   # Text-Speech Processing code <br>
+ │ ├─[**Finetuning**](Source%20Code/Finetuning)<br>
+ │ │  ├─[refined_model](Source%20Code/Finetuning/refined_model.ipynb)   # The meditron Model after finetuning<br>
+ │ │  ├─[finetuning_dataset](Source%20Code/Finetuning/finetuning_dataset.ipynb)   # Finetuning dataset<br>
+ │ │  └─[finetuning_lora_meditron](Source%20Code/Finetuning/finetuning_lora_meditron.ipynb)   # Finetuning script using LoRA method<br>
+
 
 ## Usage:
 
