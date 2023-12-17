@@ -25,7 +25,8 @@ Additionally, SehhaTech goes beyond traditional assistance by utilizing its conv
 </p>
 
 Our project comprises four key components:
-(**Note: The libraries and APIs that were mentioned in the following sections and aren't shown in the code were indeed used at first. But due to better alternatives we decided to no longer use them. E.g : we started working wiht NLLB models for speech and text processing but when we heard of Seamless, we opted for the former**
+
+(**Note: The libraries and APIs that were mentioned in the following sections and aren't shown in the code were indeed used at first. But due to better alternatives we decided to no longer use them. For example : we started working with NLLB models for speech and text processing but when we heard of Seamless, we opted for the former**
 ### 1. Speech to Text
 
 Speech to text functionality is achieved through the collaboration of two models:
