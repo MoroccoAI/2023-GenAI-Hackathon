@@ -1,3 +1,4 @@
+# importing libraries
 import streamlit as st
 from pypdf import PdfReader
 from langchain.text_splitter import CharacterTextSplitter
@@ -9,21 +10,28 @@ from langchain.llms import HuggingFaceHub
 from langchain import PromptTemplate
 from htmlTemplates import css, bot_template, user_template
 
+# template for custom prompt, I found it gave better results
 template = """ 
 You are a tutor helping me study for my medical exam using the provided context. 
 {query}
 """
 
+# initializing the prompt
 prompt = PromptTemplate.from_template(template)
 
 
 def get_vectors(chunks):
+    """
+    computes the embeddings using pubmedbert-base-embeddings,
+    uses FAISS to store them.
+    """
     embeddings = HuggingFaceEmbeddings(model_name="NeuML/pubmedbert-base-embeddings")
     vectorstore = FAISS.from_texts(texts=chunks, embedding=embeddings)
     return vectorstore
 
 
 def get_pdf_text(doc):
+    """Reads a pdf document and returns all of it as a string"""
     text = ""
     pdf_reader = PdfReader(doc)
     for page in pdf_reader.pages:
@@ -32,6 +40,7 @@ def get_pdf_text(doc):
 
 
 def get_chunks(text):
+    """splits the text into chunks"""
     text_splitter = CharacterTextSplitter(
         separator="\n", chunk_size=1000, chunk_overlap=200, length_function=len
     )
@@ -40,7 +49,11 @@ def get_chunks(text):
 
 
 def process_query(query):
-    # fix this later
+    """Processes the query:
+    1- appends the query to the prompt
+    2- retrieves a response using the conversation object
+    3- updates the chat history
+    4- displays the chat history"""
     question = str(prompt.format(query=query))
     response = st.session_state.conversation({"question": question})
     st.session_state.chat_history = response["chat_history"]
@@ -58,6 +71,9 @@ def process_query(query):
 
 
 def get_conv(vects):
+    """
+    creating a conversation chain:
+    """
     llm = HuggingFaceHub(
         repo_id="mistralai/Mixtral-8x7B-Instruct-v0.1",
         model_kwargs={"tempearture": 0.0, "max_length": 2048},
@@ -70,11 +86,14 @@ def get_conv(vects):
 
 
 def main():
+    """
+    main function running everything
+    """
     st.set_page_config(page_title="Medical Tutor", page_icon=":medical_symbol:")
     st.header("Medical Tutor :medical_symbol:")
     st.write(css, unsafe_allow_html=True)
 
-    # create session state object
+    # create session state object to use these variables outside of their scope
     if "conversation" not in st.session_state:
         st.session_state.conversation = None
     if "chat_history" not in st.session_state:
@@ -89,6 +108,7 @@ def main():
         process_query(query)
 
     with st.sidebar:
+        # creating a sidebar that will contain an interface for the user to upload his document
         st.markdown(
             """
         # Medical tutor helps you study for your medical exams using your own course material:
@@ -105,6 +125,7 @@ def main():
             type="pdf",
         )
         if st.button("Process"):
+            # processing the file
             with st.spinner("Processing file ..."):
                 # get pdf files:
                 raw_text = get_pdf_text(doc)
