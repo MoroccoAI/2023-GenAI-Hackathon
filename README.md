@@ -1,4 +1,4 @@
-<h2 align='center'> 2023-GenAI-Hackathon </h2>
+# 2023-GenAI-Hackathon
 
 The MoroccoAI Generative AI Hackathon aims to foster innovation and collaboration within Morocco's burgeoning AI ecosystem. As a participant, you are asked to use the latest GenAI advances to build cutting edge solutions to solve business problems in specific industries. You can join a team to develop a Proof of Concept (PoC) involving an API, a mobile application, or a web application aimed at addressing a real-life problem in Education, Healthcare, Environment, Finance or Customer Services.
 
@@ -6,13 +6,11 @@ Over the span of 7 days, starting from December 11th to 17th 2023, you will coll
 
 Go to [website](https://morocco.ai/events/conferences/MoroccoAI-Conference-2023/pages/hackathon.html) for more information.
 
-
-### How to submit 
 # Project Submission Guidelines
 
 ## 1. GitHub Repository Setup
 
-- **Fork the Main Repository**: Begin by forking the main repository to create a copy under your GitHub account.
+- **Fork the Main Repository**: Start by forking the main repository to create a copy under your GitHub account.
 - **Create a Team Folder**: Inside the forked repository, create a new folder named after your team to organize your project materials.
 
 ## 2. Prepare the Project Readme
@@ -33,6 +31,4 @@ Go to [website](https://morocco.ai/events/conferences/MoroccoAI-Conference-2023/
 
 ## 4. Submit Your Project
 
-- **Create a Pull Request**: Once your project materials are organized and uploaded, submit a pull request to the main repository for review and inclusion.
-
-changes to test PR
+- **Create a Pull Request**: Once your project materials are organized and uploaded, submit a pull request to the main repository for review and approval.
