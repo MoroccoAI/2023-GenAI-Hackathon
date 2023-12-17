@@ -18,7 +18,9 @@ InnovEducation, a groundbreaking educational platform designed to address the ge
     - [Background and Problem Statement](#background-and-problem-statement)
     - [Impact and Proposed Solution](#impact-and-proposed-solution)
     - [Project Outcomes and Deliverables](#project-outcomes-and-deliverables)
+  - [Workflow](#workflow)
   - [Demo](#demo)
+  - [Pitch](#pitch)
   - [Project Structure](#project-structure)
   - [Instructions](#instructions)
     - [Requirements:](#requirements)
@@ -100,6 +102,10 @@ II. **Ingesting a PDF document and automatically generating questions for studen
 - Automatic generation of questions and tests based on past exam data.
 
 - User-friendly interface allowing users to specify criteria for generated exams.
+
+## Workflow
+
+<img src="https://github.com/ismailza/2023-GenAI-Hackathon/assets/122171824/3a285058-3f26-4d21-9d1a-ea386b7a4c79" />
 
 ## Demo
 
