@@ -21,7 +21,7 @@ Additionally, SehhaTech goes beyond traditional assistance by utilizing its conv
 ## Overview of SehhaTech:
 
 <p align="center">
-  <img src="overview.png" alt="System's Architecture">
+  <img src="overview_sol.png" alt="System's Architecture">
 </p>
 
 Our project comprises four key components:
