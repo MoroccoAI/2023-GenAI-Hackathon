@@ -16,9 +16,40 @@ Combining these features with a knowledge base vetted by medical professionals e
 
 
 # Workflow
-
-
 <img width="2547" alt="shapes at 23-12-17 18 19 19" src="https://github.com/AhmedIdr/2023-GenAI-Hackathon/assets/31652778/8b9ad381-e218-4f9c-9fde-e12c560497b7">
+When building the project, we had a goal of relying only on open-source and openly available models, which we achieved. The project consists of the following parts:
+
+## 1. Automatic Speech Recognition:
+
+This feature provides the ability to record and input your audio instead of text.
+
+For this we used the *[SeamlessM4T V2 large](https://huggingface.co/facebook/seamless-m4t-v2-large)* model.
+
+## 2. Text translation:
+
+Since our knowledge base only contains English data, we decided to use translation to make the use of different languages possible.
+
+Similar to ASR, the *[SeamlessM4T V2 large](https://huggingface.co/facebook/seamless-m4t-v2-large)* model was used.
+
+## 3. Retrieval Augmented Generation:
+
+To base the answers and suggestions to the user questions, we use retrieval augmented generation to base the answers of the LLM on the (doctor-vetted) knowledge base to be able to make factual suggestions and to prevent the model from hallucinating.
+
+For the purpose of this hackathon we use the *[First Aid Recommendation](https://huggingface.co/datasets/badri55/First_aid__dataset)* dataset.
+
+To encode the questions available in the dataset, we use the *[Bge v1.5 Large](https://huggingface.co/BAAI/bge-large-en-v1.5)* model.
+
+The vectors were then indexed using the *[FAISS](https://github.com/facebookresearch/faiss)* library to enable semantic search and find similar questions to the user query and retrieve the related suggestions.
+
+## 4. Vision Language Model:
+
+Since the user has the ability to upload an image, we needed a vision language model to generate a description of the provided image. For this purpose, we use the *[LLava v1.5 13b](https://huggingface.co/liuhaotian/llava-v1.5-13b)* model.
+
+## 5. Large Language Model:
+
+To reason and generate suggestions based on the different inputs (User query/question, retrieved suggestions and the image description), we use a finetuned of the recently released Mixtral 8x7B model called *[dolphin-2.5-mixtral-8x7b ](https://huggingface.co/ehartford/dolphin-2.5-mixtral-8x7b)*. A system prompt was also included to instruct the model to come up with the correct answer.
+
+
 
 # Demo Video
 
