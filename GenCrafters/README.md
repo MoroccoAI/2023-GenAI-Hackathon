@@ -49,8 +49,46 @@ Since the user has the ability to upload an image, we needed a vision language m
 
 To reason and generate suggestions based on the different inputs (User query/question, retrieved suggestions and the image description), we use a finetuned of the recently released Mixtral 8x7B model called *[dolphin-2.5-mixtral-8x7b ](https://huggingface.co/ehartford/dolphin-2.5-mixtral-8x7b)*. A system prompt was also included to instruct the model to come up with the correct answer.
 
+## 6. Model Serving:
+
+To serve the VLM and LLM, we used *[Ollama](https://ollama.ai/)* that serve the model in a quantizied form and provide an easy to use local api.
+
+We specifically used the docker container of ollama with different gpus (llava on A6000 and dolphin-2.5-mixtral-8x7b on H100).
+
+## 7. Fact Checking (ToDo):
+
+To provide additional Internet sources to the suggestions, we tried using SerpAPI to perform a Google search and use the *[questions and answers](https://serpapi.com/google-questions-and-answers)* provided by Google to compare the suggestions and find similar ones and use the references.  Unfortunately, we have found that these questions and answers are not always available and have marked these features as todos for the future.
+The UI was probably the hardest part, since we are don't that much experience in React but having a cool UI was also a goal of ours, that is why we kept pushing.
+
+--
+We chose not to utilize tools like LangChain and LlamaIndex as they tend to obscure the underlying processes, making it difficult to grasp what truly happens in the background. For us, it was crucial to have a clear understanding of the workflow within the pipeline to ensure a deeper comprehension of its operation.
 
 
 # Demo Video
 
 https://github.com/AhmedIdr/2023-GenAI-Hackathon/assets/31652778/95e1669d-12e1-4b04-966a-2bb6b9b4ae28
+
+# Usage
+
+The project was build in manner that each part of the pipeline can be deployed as its own service. If you want to run the whole project you should:
+
+- First run encode_and_index.py file in the APIs folder.
+- Then start all the provided APIs, you might to change the ports of the different flask apis, since for our setup each api was deployed in a seperate docker container with a port forwaring.
+- Deply the VLM and the LLM by using ollama docker container.
+First you pull the model and start it.
+```
+docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+```
+Then start the desired model by the following command:
+
+```
+docker exec -it ollama ollama run dolphin-2.5-mixtral-8x7b
+```
+After starting all the service, you can now start the User Interface in the UI/nextjs-multi-modal folder.
+
+- First you will need to run `npm install` to install the needed packages.
+- And `npm run dev` to start the app.
+
+! The app won't work out of the box, since all the api calls in the UI will require adding the right APIs IP Addresses and ports.
+! The whole project was deployed in our setup using multiple high-end GPUs, so it neeeds some ressource to run.
+
