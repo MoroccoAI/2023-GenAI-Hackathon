@@ -1,0 +1,10 @@
+torch
+sentence_transformers
+transformers 
+langchain
+streamlit
+streamlit-extras
+PyPDF
+ctransformers
+aiofiles
+faiss-cpu
