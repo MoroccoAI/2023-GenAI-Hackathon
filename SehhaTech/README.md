@@ -74,7 +74,7 @@ A report with a predefined format is automatically generated as part of our proj
  
 
 ## Visualization:
-
+![Demo GIF](path/to/your/demo.gif)
 https://github.com/Yassmine2020/SehhaTech/assets/85367800/e39b1acb-203c-4ce2-9b80-43fa61bfea1a
 
 ## Evaluation and Safety:
