@@ -1,0 +1,821 @@
+,Disease,Description,Precaution,Recommendations
+0,Drug Reaction,An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.,"stop irritation, consult nearest hospital, stop taking drug, follow up","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Allergist / Immunologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Chaoui
+Doctor speciality / Title: Dermatologist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+1,Malaria,An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.,"Consult nearest hospital, avoid oily food, avoid non veg food, keep mosquitos out","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Tropical Medicine Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Mansouri
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+2,Allergy,"An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.",,"#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Allergist / Immunologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benjelloun
+Doctor speciality / Title: Allergist / Immunologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Amina Chaoui
+Doctor speciality / Title: Allergist / Immunologist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca"
+3,Hypothyroidism,"Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.","reduce stress, exercise, eat healthy, get proper sleep","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Endocrinologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Mansouri
+Doctor speciality / Title: Naturopathic Doctor
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+4,Psoriasis,"Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family.","wash hands with warm soapy water, stop bleeding using pressure, consult doctor, salt baths","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Dermatologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Rheumatologist
+ID: 987654321
+Phone number: +212 6 98 76 54 32
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Khattabi
+Doctor speciality / Title: Immunologist
+ID: 654321987
+Phone number: +212 6 54 32 10 98
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+5,GERD,"Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD.","avoid fatty spicy food, avoid lying down after eating, maintain healthy weight, exercise","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12345678
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Benali
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 987654321
+Phone number: +212 6 98765432
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Dietitian
+ID: 654321987
+Phone number: +212 6 65432198
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+6,Chronic cholestasis,"Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases","cold baths, anti itch medicine, consult doctor, eat healthy","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Hepatologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Mansouri
+Doctor speciality / Title: Pediatric Gastroenterologist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+7,hepatitis A,Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.,"Consult nearest hospital, wash hands through, avoid fatty spicy food, medication","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: 06XXXXXXXX
+Address: 123 Rue Hassan II, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Hepatologist
+ID: 987654321
+Phone number: 06XXXXXXXX
+Address: 456 Avenue Mohammed V, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 654321987
+Phone number: 06XXXXXXXX
+Address: 789 Boulevard Abdelmoumen, Casablanca"
+8,Osteoarthristis,"Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.","acetaminophen, consult nearest hospital, follow up, salt baths","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Rheumatologist
+ID: 123456789
+Phone number: +212 6 12345678
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Benali
+Doctor speciality / Title: Orthopedic Surgeon
+ID: 987654321
+Phone number: +212 6 98765432
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Physical Medicine and Rehabilitation Specialist
+ID: 654321987
+Phone number: +212 6 65432198
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+9,(vertigo) Paroymsal  Positional Vertigo,Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo — the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness.,"lie down, avoid sudden change in body, avoid abrupt head movment, relax","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Otolaryngologist (Ear, Nose, and Throat Specialist)
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Neurologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Mansouri
+Doctor speciality / Title: Physical Therapist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+10,Hypoglycemia, Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.,"lie down on side, check in pulse, drink sugary drinks, consult doctor","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Endocrinologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Mansouri
+Doctor speciality / Title: Cardiologist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+11,Acne,"Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.","bath twice, avoid fatty spicy food, drink plenty of water, avoid too many products","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Dermatologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benjelloun
+Doctor speciality / Title: Dermatologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Amina El Khattabi
+Doctor speciality / Title: Dermatologist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca"
+12,Diabetes,"Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.","have balanced diet, exercise, consult doctor, follow up","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Endocrinologist
+ID: 123456789
+Phone number: +212 6 12345678
+Address: 123 Avenue Mohammed V, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 987654321
+Phone number: +212 6 98765432
+Address: 456 Rue Hassan II, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Amina El Khattabi
+Doctor speciality / Title: Nutritionist
+ID: 654321987
+Phone number: +212 6 65432198
+Address: 789 Boulevard Abdelmoumen, Casablanca"
+13,Impetigo,"Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts.","soak affected area in warm water, use antibiotics, remove scabs with wet compressed cloth, consult doctor","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Dermatologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Pediatrician
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Khattabi
+Doctor speciality / Title: Family Medicine Physician
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+14,Hypertension,"Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.","meditation, salt baths, reduce stress, get proper sleep","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Cardiologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Khadija Mansouri
+Doctor speciality / Title: Nephrologist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+15,Peptic ulcer diseae,"Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer.","avoid fatty spicy food, consume probiotic food, eliminate milk, limit alcohol","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: 06XXXXXXXX
+Address: 123 Rue Hassan II, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Gastroenterologist
+ID: 987654321
+Phone number: 06XXXXXXXX
+Address: 456 Avenue Mohammed V, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Hassan El Mansouri
+Doctor speciality / Title: Gastroenterologist
+ID: 654321987
+Phone number: 06XXXXXXXX
+Address: 789 Boulevard Abdelmoumen, Casablanca"
+16,Dimorphic hemorrhoids(piles),"Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease .","avoid fatty spicy food, consume witch hazel, warm bath with epsom salt, consume alovera juice","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Proctologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Hassan El Mansouri
+Doctor speciality / Title: Colorectal Surgeon
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+17,Common Cold,"The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.","drink vitamin c rich drinks, take vapour, avoid cold food, keep fever in check","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: General Practitioner
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Mohammed V, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Ear, Nose, and Throat Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Hassan II, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Amina Mansouri
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca"
+18,Chicken pox,"Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters.","use neem in bathing , consume neem leaves, take vaccine, avoid public places","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Dermatologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Khattabi
+Doctor speciality / Title: Pediatrician
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+19,Cervical spondylosis,"Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs).","use heating pad or cold pack, exercise, take otc pain reliver, consult doctor","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Rheumatologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Orthopedic Surgeon
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Samira El Khattabi
+Doctor speciality / Title: Physical Medicine and Rehabilitation Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+20,Hyperthyroidism,"Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.","eat healthy, massage, use lemon balm, take radioactive iodine treatment","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Endocrinologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Cardiologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Mansouri
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+21,Urinary tract infection,"Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating.","drink plenty of water, increase vitamin c intake, drink cranberry juice, take probiotics","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Urologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Nephrologist
+ID: 987654321
+Phone number: +212 6 87 65 43 21
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Aicha Berrada
+Doctor speciality / Title: General Practitioner
+ID: 654321987
+Phone number: +212 6 54 32 10 98
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+22,Varicose veins,"A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs.","lie down flat and raise the leg high, use oinments, use vein compression, dont stand still for long","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Vascular Surgeon
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Dermatologist
+ID: 987654321
+Phone number: +212 6 98 76 54 32
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Chaoui
+Doctor speciality / Title: Phlebologist
+ID: 654321987
+Phone number: +212 6 54 32 10 98
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+23,AIDS,"Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.","avoid open cuts, wear ppe if possible, consult doctor, follow up","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Immunologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Aicha El Mansouri
+Doctor speciality / Title: HIV/AIDS Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+24,Paralysis (brain hemorrhage),"Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body.","massage, eat healthy, exercise, consult doctor","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Neurologist
+ID: 123456789
+Phone number: +212 6 12345678
+Address: 123 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Benali
+Doctor speciality / Title: Neurosurgeon
+ID: 987654321
+Phone number: +212 6 98765432
+Address: 456 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Physical Medicine and Rehabilitation Specialist
+ID: 654321987
+Phone number: +212 6 65432198
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+25,Typhoid,"An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.","eat high calorie vegitables, antiboitic therapy, consult doctor, medication","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Gastroenterologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Khattabi
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+26,Hepatitis B,"Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus.","consult nearest hospital, vaccination, eat healthy, medication","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Hepatologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+27,Fungal infection,"In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi.","bath twice, use detol or neem in bathing water, keep infected area dry, use clean cloths","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Kabbaj
+Doctor speciality / Title: Dermatologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 987654321
+Phone number: +212 6 98 76 54 32
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Mansouri
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 654321987
+Phone number: +212 6 54 32 10 98
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+28,Hepatitis C,"Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer.","Consult nearest hospital, vaccination, eat healthy, medication","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Hepatologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+29,Migraine,"A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.","meditation, reduce stress, use poloroid glasses in sun, consult doctor","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Neurologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Headache Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina El Mansouri
+Doctor speciality / Title: Pain Management Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+30,Bronchial Asthma,"Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working.","switch to loose cloothing, take deep breaths, get away from trigger, seek help","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Pulmonologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Allergist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Chest Physician
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+31,Alcoholic hepatitis,"Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol","stop alcohol consumption, consult doctor, medication, follow up","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12345678
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Hepatologist
+ID: 987654321
+Phone number: +212 6 98765432
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Karim El Mansouri
+Doctor speciality / Title: Addiction Medicine Specialist
+ID: 654321987
+Phone number: +212 6 65432198
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+32,Jaundice,"Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the ""morbus regius"" (the regal disease) in the belief that only the touch of a king could cure it","drink plenty of water, consume milk thistle, eat fruits and high fiberous food, medication","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Hepatologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Mansouri
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+33,Hepatitis E,A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.,"stop alcohol consumption, rest, consult doctor, medication","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Hassan El Mansouri
+Doctor speciality / Title: Hepatologist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+34,Dengue,"an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. — called also breakbone fever, dengue fever.","drink papaya leaf juice, avoid fatty spicy food, keep mosquitos away, keep hydrated","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Chaoui
+Doctor speciality / Title: Dermatologist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+35,Hepatitis D,"Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV).","consult doctor, medication, eat healthy, follow up","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Hepatologist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+36,Heart attack,"The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.",,"#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Cardiologist
+ID: 123456789
+Phone number: 06XXXXXXXX
+Address: 123 Avenue Mohammed V, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Fatima Benali
+Doctor speciality / Title: Interventional Cardiologist
+ID: 987654321
+Phone number: 06XXXXXXXX
+Address: 456 Rue Hassan II, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Karim Mansouri
+Doctor speciality / Title: Cardiothoracic Surgeon
+ID: 654321987
+Phone number: 06XXXXXXXX
+Address: 789 Boulevard Abdelmoumen, Casablanca"
+37,Pneumonia,"Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.","consult doctor, medication, rest, follow up","#Suggestion 1
+Full Name: Dr. Ahmed El Amrani
+Doctor speciality / Title: Pulmonologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Avenue Hassan II, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Fatima Zohra Benali
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Rue Mohammed V, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Hassan El Mansouri
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca"
+38,Arthritis,"Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis.","exercise, use hot and cold therapy, try acupuncture, massage","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Rheumatologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Mohammed V, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Ben Salah
+Doctor speciality / Title: Orthopedic Surgeon
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Hassan II, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Mansouri
+Doctor speciality / Title: Physical Therapist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Mohammed VI, Casablanca, Morocco"
+39,Gastroenteritis,"Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting .","stop eating solid food for while, try taking small sips of water, rest, ease back into eating","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Gastroenterologist
+ID: 123456789
+Phone number: +212 6 12 34 56 78
+Address: 123 Rue Hassan II, Casablanca, Morocco
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Internal Medicine Specialist
+ID: 987654321
+Phone number: +212 6 54 32 10 98
+Address: 456 Avenue Mohammed V, Casablanca, Morocco
+
+#Suggestion 3
+Full Name: Dr. Amina Chaoui
+Doctor speciality / Title: Infectious Disease Specialist
+ID: 654321987
+Phone number: +212 6 78 90 12 34
+Address: 789 Boulevard Abdelmoumen, Casablanca, Morocco"
+40,Tuberculosis,"Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis.","cover mouth, consult doctor, medication, rest","#Suggestion 1
+Full Name: Dr. Fatima Zahra El Amrani
+Doctor speciality / Title: Pulmonologist
+ID: XXXX
+Phone number: +212XXXXXXXXX
+Address: 123 Avenue Hassan II, Casablanca
+
+#Suggestion 2
+Full Name: Dr. Ahmed Benali
+Doctor speciality / Title: Infectious Disease Specialist
+ID: XXXX
+Phone number: +212XXXXXXXXX
+Address: 456 Rue Mohammed V, Casablanca
+
+#Suggestion 3
+Full Name: Dr. Aicha El Mansouri
+Doctor speciality / Title: Internal Medicine Specialist
+ID: XXXX
+Phone number: +212XXXXXXXXX
+Address: 789 Boulevard Abdelmoumen, Casablanca"
