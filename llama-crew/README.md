@@ -9,7 +9,7 @@
 
 👨🏻‍🌾 [@Mohammed Machrouh](https://github.com/medmac01) - Senior Farmer
 
-👩🏻‍🌾 [@Marwa el Kamil](https://github.com/maghwa) - Senior Farmer
+👩🏻‍🌾 [@Marwa El Kamil](https://github.com/maghwa) - Senior Farmer
 
 🧑🏻‍🌾 [@Khadija Bayoud](https://github.com/Khadija-Bayoud) - Land Owner
 
