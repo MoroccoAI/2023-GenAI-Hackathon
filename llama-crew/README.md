@@ -53,8 +53,20 @@ Smart فلاح proposes the development of an LLM-powered chatbot, a user-friend
 <br> <br>
 
 
-# Instructions :
+# 💻 Instructions :
 1. `git clone https://huggingface.co/spaces/smart-fellah/Smart-fellah`
 2. `pip install -r requirements.txt`
 3. `streamlit run app.py`
+<br> <br>
+
+
+# 🎤 Demo :
+[Demo](https://www.youtube.com/watch?v=rl1Mk5WjsR4)
+
+# 🎤 Pitch :
+[Demo](https://www.youtube.com/watch?v=vME1PF99Awg)
+
+
+
+
 
