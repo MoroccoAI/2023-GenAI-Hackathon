@@ -75,7 +75,7 @@ The project was build in manner that each part of the pipeline can be deployed a
 - First run encode_and_index.py file in the APIs folder.
 - Then start all the provided APIs, you might to change the ports of the different flask apis, since for our setup each api was deployed in a seperate docker container with a port forwaring.
 - Deply the VLM and the LLM by using ollama docker container.
-First you pull the model and start it.
+First you pull the docker image and start it.
 ```
 docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
 ```
