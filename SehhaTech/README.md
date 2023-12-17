@@ -101,19 +101,20 @@ To take a look at the presentation of SehhaTech, you can check the following PDF
 ## Project Structure:
 
  ├─[**SourceCode**](Source%20Code)<br>
- │ ├─[evaluation](Source%20Code/evaluation.ipynb)   # An evaluation app<br>
- │ ├─[vlm_model](Source%20Code/vlm_model.ipynb)   # Implementation of VLM Model <br>
- │ ├─[llm_model](Source%20Code/llm_model.ipynb)   # Implementation of the LLM model <br>
- │ ├─[model_response_](Source%20Code/model_response_.ipynb)   # Handling patient's query to generate a respone using LLM or VLM<br>
- │ ├─[prompts](Source%20Code/prompts.ipynb)   # Helpful prompts  <br>
- │ ├─[rag](Source%20Code/rag.ipynb)   # RAG code <br>
- │ ├─[report_generation](Source%20Code/report_generation.ipynb)   # Report Generation code <br>
- │ ├─[speech_generation](Source%20Code/speech_generation.ipynb)   # Speech Generation code <br>
- │ ├─[text_speech_processing](Source%20Code/text_speech_processing.ipynb)   # Text-Speech Processing code <br>
+ │ ├─[DemoSehhatech](Source%20Code/DemoSehhatech.ipynb)   # Demo notebook<br>
+ │ ├─[evaluation](Source%20Code/evaluation.py)   # An evaluation app<br>
+ │ ├─[vlm_model](Source%20Code/vlm_model.py)   # Implementation of VLM Model <br>
+ │ ├─[llm_model](Source%20Code/llm_model.py)   # Implementation of the LLM model <br>
+ │ ├─[model_response_](Source%20Code/model_response_.py)   # Handling patient's query to generate a respone using LLM or VLM<br>
+ │ ├─[prompts](Source%20Code/prompts.py)   # Helpful prompts  <br>
+ │ ├─[rag](Source%20Code/rag.py)   # RAG code <br>
+ │ ├─[report_generation](Source%20Code/report_generation.py)   # Report Generation code <br>
+ │ ├─[speech_generation](Source%20Code/speech_generation.py)   # Speech Generation code <br>
+ │ ├─[text_speech_processing](Source%20Code/text_speech_processing.py)   # Text-Speech Processing code <br>
  │ ├─[**Finetuning**](Source%20Code/Finetuning)<br>
- │ │  ├─[refined_model](Source%20Code/Finetuning/refined_model.ipynb)   # The meditron Model after finetuning<br>
- │ │  ├─[finetuning_dataset](Source%20Code/Finetuning/finetuning_dataset.ipynb)   # Finetuning dataset<br>
- │ │  └─[finetuning_lora_meditron](Source%20Code/Finetuning/finetuning_lora_meditron.ipynb)   # Finetuning script using LoRA method<br>
+ │ │  ├─[refined_model](Source%20Code/Finetuning/refined_model.py)   # The meditron Model after finetuning<br>
+ │ │  ├─[finetuning_dataset](Source%20Code/Finetuning/finetuning_dataset.py)   # Finetuning dataset<br>
+ │ │  └─[finetuning_lora_meditron](Source%20Code/Finetuning/finetuning_lora_meditron.py)   # Finetuning script using LoRA method<br>
 
 
 ## Usage:
