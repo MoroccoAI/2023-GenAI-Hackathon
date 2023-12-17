@@ -17,6 +17,8 @@ Combining these features with a knowledge base vetted by medical professionals e
 
 # Workflow
 <img width="2547" alt="shapes at 23-12-17 18 19 19" src="https://github.com/AhmedIdr/2023-GenAI-Hackathon/assets/31652778/8b9ad381-e218-4f9c-9fde-e12c560497b7">
+
+---
 When building the project, we had a goal of relying only on open-source and openly available models, which we achieved. The project consists of the following parts:
 
 ## 1. Automatic Speech Recognition:
@@ -60,8 +62,8 @@ We specifically used the docker container of ollama with different gpus (llava o
 To provide additional Internet sources to the suggestions, we tried using SerpAPI to perform a Google search and use the *[questions and answers](https://serpapi.com/google-questions-and-answers)* provided by Google to compare the suggestions and find similar ones and use the references.  Unfortunately, we have found that these questions and answers are not always available and have marked these features as todos for the future.
 The UI was probably the hardest part, since we are don't that much experience in React but having a cool UI was also a goal of ours, that is why we kept pushing.
 
---
-We chose not to utilize tools like LangChain and LlamaIndex as they tend to obscure the underlying processes, making it difficult to grasp what truly happens in the background. For us, it was crucial to have a clear understanding of the workflow within the pipeline to ensure a deeper comprehension of its operation.
+---
+Notice: We chose not to utilize tools like LangChain and LlamaIndex as they tend to obscure the underlying processes, making it difficult to grasp what truly happens in the background. For us, it was crucial to have a clear understanding of the workflow within the pipeline to ensure a deeper comprehension of its operation.
 
 
 # Demo Video
