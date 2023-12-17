@@ -1,0 +1,25 @@
+Le changement climatique, provoqué par les émissions de Gaz à Effet de Serre (GES) issues de l'activité humaine, constitue déjà une menace à l'échelle planétaire puisque de nombreux événements climatiques extrêmes (températures extrêmes, fortes précipitations ou sécheresses par exemple) sont aujourd'hui attribuables au changement climatique (pour plus d'informations voir Attribution évènements extrêmes). Bien que l'ensemble des activités contribue aux émissions de GES du pays, les usages liés à l'utilisation d'énergie restent de loin le premier poste d'émissions malgré l’essor récent des énergies renouvelables.
+
+Émissions nationales de Gaz à Effet de Serre
+
+Depuis le début des années 90, les émissions de GES ont triplé (fig 1.a) pour s'établir en 2019 à plus de 90 millions de tonnes équivalent CO2 (Mt CO2eq). Les principaux secteurs d’émissions de GES sont :
+
+- Secteur énergétique : Sa part dans les émissions de GES nationale est restée prépondérante à plus de 60% pour atteindre 73% des émissions de 2019. Cette année, ses émissions sont principalement réparties (fig 1.b) entre la production d’électricité et de chaleur (43%), le transport des personnes et des marchandises (29%), l’énergie utilisée dans les bâtiments (12%) et celle utilisée pour alimenter l’industrie et la construction (11%).
+
+- Secteur agricole : En passant de 12 à 15 Mt CO2eq (soit 16% des émissions de 2019) sur cette période, le secteur a connu un faible bond de ses émissions contrastant avec les gains de productivité réalisés par le secteur pendant ce laps de temps.
+
+- Secteur processus industriels : Les émissions de ce secteur ont été multipliées par 3 et ont suivi la même tendance que l’augmentation de sa valeur ajoutée dans le pays pour s’établir à 6,3 Mt CO2eq en 2019.
+
+- Secteur déchets : Avec près de 5 Mt CO2eq en 2019, le secteur a contribué à hauteur de 5% du total des émissions.
+
+- Secteur changement d’usage des sols & foresterie : Bien que les puits de carbone (émissions négatives de ce secteur) aient connu un fort recul au début des années 2010 (passant de 4.4 à 1.4 Mt CO2eq stockés), le pays entend "développer l’agriculture et les écosystèmes forestiers durables et résilients et des puits carbones" comme explicité dans la Stratégie Bas Carbone à Long Terme Maroc 2050 (LTS - 2050).
+
+L’évolution récente des émissions (11,3%) sur la période 2012-2018 (fig 2) provient principalement des secteurs suivants : le secteur du transport a contribué à plus du tiers de cette croissance, les secteurs de production d'électricité/chaleur et agricole ont chacun contribué à près de 20% de cette augmentation et dans une moindre mesure le secteur relatif à l’agriculture a porté 13% de cette augmentation. En revanche, les émissions liées à l’utilisation d’énergie par le secteur industrie/construction ont baissé et ont permis d’atténuer de la hausse des émissions de 0,9 %.
+
+En plus d’être le principal secteur émetteur de GES, le secteur énergétique a concentré plus de 80 % de l’augmentation récente des émissions. Nous allons donc nous intéresser aux sources de consommation d’énergie et au système de production d’électricité marocain.
+
+Zoom sur le secteur énergétique
+
+Depuis 1990, la quantité d'énergie finale consommée au Maroc a plus que triplé passant de 236 000 TJ (térajoule) à plus de 700 000 TJ en 2019 (fig 3.a). Durant cette période, la part des produits pétroliers dans l'énergie consommée totale s'est stabilisée autour de 70 %. Grâce à leur potentiel à fournir de l'énergie peu carbonée, certaines sources d'électricité (hydraulique, solaire, éolien et nucléaire) peuvent participer à réduire l'empreinte du secteur énergétique. Cependant, le mix électrique (fig 3.b) marocain reste largement dominé en 2020 par les énergies fossiles (le charbon représentant près de 70% de l'offre actuelle) malgré la pénétration récente des énergies renouvelables (l'éolien et le solaire ont atteint 15% de l'électricité en 2020 contre 0% en 1990). Grâce à son potentiel solaire parmi les plus importants du monde, le pays possède la capacité d'atteindre l'objectif de 52% "d’énergie renouvelable dans la capacité électrique installée totale à l’horizon 2030" (LTS - 2050). Cela lui permettra par la même occasion de réduire sa dépendance aux importations d’énergies fossiles.
+
+En signant l'Accord de Paris, les Etats se sont engagés à "renforcer la réponse mondiale à la menace du changement climatique en maintenant l'augmentation de la température mondiale à un niveau bien inférieur à 2 degrés Celsius par rapport aux niveaux préindustriels et de poursuivre les efforts  pour  limiter  encore  davantage  l'augmentation  de  la  température  à  1,5  degré  Celsius" (UNFCC). Cependant, les pays n’ont pas contribué de la même manière au problème comme le rappelle le principe de “responsabilités communes mais différenciées et capacités respectives”. On peut alors se demander comment se positionne le Maroc sur cette question.

@@ -1,0 +1,82 @@
+Alors que l’agriculture marocaine fait face à de multiples défis (crise hydrique, crise de main d’œuvre, inflation des intrants agricoles…), l’agriculture numérique, aussi communément appelée agriculture digitale, semble être en mesure d’apporter des réponses à chacun d’entre eux.
+
+Cette nouvelle forme d’agriculture est d’ailleurs l’un des fondements de la stratégie “Génération Green”. À l’horizon 2030, le Royaume prévoit de connecter au moins 2 millions d’agriculteurs à des plateformes de services digitaux.
+
+Les capteurs, les drones, les objets connectés et les applications mobiles joueraient alors un rôle stratégique dans la quête de compétitivité de l’agriculture marocaine mais également dans un objectif d’adaptation face au changement climatique.
+
+Face à ce marché en pleine expansion, de nombreuses start-ups marocaines spécialisées dans l’ « agritech » ont vu le jour et se montrent très dynamiques. 
+C’est le cas de SOWIT par exemple, qui développe des applications mobiles destinées à fournir des données de précision aux agriculteurs sur l’irrigation, la fertilisation ou encore les rendements grâce à des capteurs, la télédétection et l’intelligence artificielle.
+
+D’autres entreprises comme AgriEdge, qui conçoit une plateforme de services d’agriculture de précision et une marketplace digitale des produits agricoles ; ou bien Arwa Solutions, start-up spécialisée dans le pilotage de l’irrigation via une application mobile et au moyen de capteurs connectés font aujourd’hui partie de l’écosystème agritech marocain.
+
+La digitalisation de l'agriculture au Maroc suscite un grand intérêt, qui vire parfois au fantasme car la digitalisation présente également des défis qu'il convient de relever pour garantir son utilisation vertueuse.
+
+Sous condition d’en faire un outil intelligemment pensé et utile, la digitalisation du secteur agricole peut offrir de multiples opportunités.
+
+quelles opportunités la digitalisation offre à l'agriculture marocaine ?
+
+
+
+La proposition d'outils clés en main et performants sur le plan technologique suscitent l'intérêt des jeunes pour l'agriculture. Dans une ère où le rapport de l’Humanité à la technologie marque un tournant, la digitalisation revêt alors une dimension sociale en tant que moyen d'émancipation et d'élévation sociale.
+
+La digitalisation permet de rationaliser des tâches considérées comme à faible valeur ajoutée, telles que l'irrigation, en automatisant des processus, ce qui libère d’une certaine astreinte et laisse place à des activités plus rentables.
+
+Lors d’un entretien pour Nechfate, Rachid (prénom modifié), agriculteur en maraîchage et oléiculture dans la province de Sefrou, explique :
+
+« Automatiser et déclencher mon système d’irrigation à distance me permet de consacrer une journée par semaine à une activité entrepreneuriale, qui m’apporte un complément de revenus ».
+
+Image : contrôleur de vanne (boîtier gris) qui permet de déclencher et programmer son système d’irrigation à distance via une application mobile. L’application mobile communique les commandes au contrôleur via un réseau radio basse fréquence LoRaWAN. Le réseau LoRaWAN est le protocole de communication le plus utilisé pour les solutions agricoles numériques. Or, au Maroc, les bandes de fréquence utilisées pour ce réseau ne sont pas autorisées par l’ANRT (Agence Nationale de Réglementation des Télécommunications). Une mise aux normes spécifique du matériel est nécessaire, mais peu connue des agriculteurs, elle est aussi peu mise en place par les entreprises marocaines ou les filiales de sociétés étrangères.
+
+La digitalisation peut offrir la possibilité de rendre les connaissances et les outils numériques accessibles à tous, y compris pour les femmes, favorisant ainsi une plus grande équité dans le secteur agricole. Cela peut s’avérer être une opportunité supplémentaire d’autonomisation des femmes rurales.
+
+La collecte de données fiables et précises sur les précipitations, les températures et l’état de la biodiversité pourrait permettre d'adapter les pratiques agricoles pour faire face aux impacts du dérèglement climatique à l'échelle locale. Ces données peuvent donc être valorisées par des services climatiques,
+
+La digitalisation peut faciliter l'échange de connaissances, de données et de pratiques entre les agriculteurs et les scientifiques, permettant ainsi de co-construire des agrosystèmes résilients qui garantissent la souveraineté alimentaire du pays.
+
+Cependant, la digitalisation agricole au Maroc fait également face à des défis majeurs et largement sous-estimés.
+
+L’agriculture digitale et des limites opérationnelles déjà largement visibles
+
+La digitalisation nécessite des connaissances et compétences pointues.
+
+Or, si l’introduction de telles technologies dans le monde agricole se veut être efficace (on entend par “efficace” le fait qu’elles remplissent pleinement les rôles qui leur ont été attribués, par exemple : apporter les justes doses d’eau ou d’engrais au bon moment), il est crucial de rendre ces connaissances accessibles aux agriculteurs pour que ces derniers puissent se les approprier et ainsi devenir de véritables acteurs qui décident.
+
+L’un des principaux défis du processus de digitalisation réside dans le transfert de connaissances (des entreprises de l’agritech vers les agriculteurs) nécessaire à son déploiement.
+
+Le déploiement du goutte-à-goutte est un bon exemple : souvent, son introduction n’a pas été suivie par une adaptation des pratiques d’irrigation des agriculteurs, aboutissant à la situation paradoxale d’une sur-irrigation et par conséquent une hausse de la consommation d’eau et non à des économies.
+
+L’introduction d’une nouvelle technologie requiert donc un accompagnement accessible et pensé pertinemment à destination des agriculteurs pour sa prise en main, sinon l’utilisation de cette technologie peut s’avérer totalement contre-productive.
+
+En l’occurrence, il n’est pas évident que le Plan « Génération Green » ait suffisamment relevé cette limite.
+
+La digitalisation ne peut être décontextualisée de la réalité de terrain, qui englobe de nombreux facteurs tels que les aspects humains, agroécologiques et historiques. Il est indispensable de prendre en compte ces éléments pour éviter une mise en œuvre inappropriée de la digitalisation.
+
+Par exemple, dans la région de Fès-Meknès, des tentatives d’installation de solutions de pilotage de l’irrigation grâce à des électrovannes et des capteurs connectés via une application mobile s’est soldée par un échec chez certains agriculteurs.
+
+En cause, les dispositifs installés requièrent une connexion internet 3G pour remonter les données collectées vers l’application, or certaines zones ne disposant pas d’une couverture suffisante, les agriculteurs n’ont pu en bénéficier.
+
+Un autre facteur évoqué réside dans la résistance des équipements aux conditions sur le terrain. Sous des températures avoisinant les 50°C durant l’été, les électrovannes et capteurs installés dans des parcelles maraîchères sans ombre ont rencontré d’importantes pannes et des dysfonctionnements, obligeant les agriculteurs à abandonner ces technologies pour continuer à maintenir l’irrigation et garantir une production agricole.
+
+Ces exemples illustrent l’inadéquation entre l’offre et les besoins des utilisateurs. Ces dispositifs, souvent issus de firmes comme les capteurs proposés par le géant chinois Dragino et revendus par les entreprises marocaines, sont développés dans des conditions de laboratoire et initialement destinés aux marchés européens et américains. Ils sont, par conséquent, inadaptés aux conditions semi-arides voire arides qui constituent le contexte agricole marocain.
+
+La digitalisation et le risque d’une amplification de la marginalisation des petits agriculteurs
+
+La digitalisation agricole requiert un investissement important, qui représente souvent un obstacle pour les petites et moyennes exploitations. Pour y remédier, les subventions sont nécessaires pour permettre à ces exploitations de bénéficier pleinement de la digitalisation. Bien qu’à l’heure actuelle, l’État ne subventionne pas (encore) les dispositifs connectés pour l’agriculture, des manœuvres existent pour obtenir des aides publiques.
+
+Et même si, certaines entreprises marocaines se targuent de proposer des solutions accessibles et pertinentes pour les petits agriculteurs, aucuns résultats concrets démontrant du réel atout de ces solutions n’ont été publiés jusqu’ici.
+
+La digitalisation s’inscrit dans un modèle agricole plutôt adapté aux grandes exploitations compétitives et donc capables d’amortir ces investissements.
+
+Il est important de préciser que le caractère compétitif d’une exploitation réside souvent dans sa capacité à supporter des prix bas. C’est-à-dire à assurer sa rentabilité malgré des prix d’achats bas, en produisant des volumes importants permettant de réduire les coûts de production par unité de surface et/ou en se tournant vers des cultures à haute valeur ajoutée destinées à l’export.
+
+Il est donc important de s’interroger sur le modèle agricole que l’on encourage à travers la promotion de la digitalisation. Et quelle est sa pérennité sur les plans économique, social et environnemental.
+
+L’expansion des grandes exploitations orientées vers les cultures d’exportation contribue certes largement au PIB agricole, elle se fait au détriment d’une agriculture familiale pourtant productive (45% du PIB agricole pour l’agriculture de bour) et essentielle à la souveraineté alimentaire du pays.
+
+Parmi les limites, nous pourrions aussi évoquer le fait que l’adoption inégalitaire des nouvelles technologies est liée, entre autres, au régime foncier et à l’accès au crédit.
+
+Image : exploitation familiale dans la région Fès-Meknès, oct 2022. Non libre de droit. Crédit : A. Haddane
+
+Le digital doit être considéré comme un moyen et non une fin
+
+sources principales
