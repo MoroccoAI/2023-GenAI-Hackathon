@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>9RAdio²</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <style>
+    body {
+      background-color: #000; /* Black background */
+      color: #fff; /* White text */
+    }
+
+    .container {
+      margin-top: 50px;
+      padding: 20px; /* Add padding to the container */
+      background-color: #001933; /* Dark blue background for container */
+      border-radius: 10px; /* Rounded corners */
+      box-shadow: 0px 0px 20px 0px #000; /* Add subtle shadow effect */
+    }
+
+    .jumbotron {
+      background-color: #000; /* Black background for title */
+      color: #fff; /* White text for title */
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px; /* Rounded corners for title */
+    }
+
+    h3, h4 {
+      color: #fff; /* White text for description and image title */
+    }
+
+    .form-horizontal {
+      margin-top: 20px;
+    }
+
+    .btn-success {
+      background-color: #007bff; /* Light blue button */
+      border-color: #007bff; /* Light blue border */
+    }
+
+    img.result-image {
+      height: 200px;
+      width: 200px;
+      margin-top: 20px;
+      border-radius: 10px; /* Rounded corners for result image */
+    }
+
+    h2.prediction-text {
+      margin-top: 10px;
+      color: #fff; /* White text for prediction */
+      text-align: center;
+      font-size: 18px; /* Smaller font size for prediction */
+    }
+
+    .logo-placeholder {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .logo img {
+      height: 40px; /* Adjust the height of the logo */
+      margin-right: 10px; /* Add some margin to the right of the logo */
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1 class="jumbotron"><span class="logo"><img src="https://i.postimg.cc/YqyqzpFm/logo.png"></span><b>9RAdio²</b></h1>
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h3>RADIOLOGY, SIMPLIFIED: Your AI assistant in reading insights</h3>
+      <form class="form-horizontal" action="/submit" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+          <label class="control-label col-sm-2" for="my_image">Upload Your Image :</label>
+          <div class="col-sm-10">          
+            <input type="file" class="form-control" id="my_image" name="my_image">
+          </div>
+        </div>
+        <div class="form-group">        
+          <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-success">Submit</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 text-center">
+      {% if prediction %}
+        <h4 class="image-title">Original X-ray</h4>
+        <img src="{{url_for('static', filename=img_path)}}" class="result-image" alt="Left Image">
+      {% endif %}
+    </div>
+    <div class="col-md-6 text-center">
+      {% if prediction %}
+        <h4 class="image-title">Segmented X-ray</h4>
+        <img src="{{url_for('static', filename=img_path2)}}" class="result-image" alt="Right Image">
+      {% endif %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 text-center">
+      {% if prediction %}
+        <h2 class="prediction-text">Your Prediction: <i>{{prediction}}</i></h2>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
