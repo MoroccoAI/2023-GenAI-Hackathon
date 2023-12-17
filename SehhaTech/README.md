@@ -97,6 +97,7 @@ For the safety aspect of our solution, the chatbot is only intended to be used t
 
 ## Presentation of our work:
 To take a look at the presentation of SehhaTech, you can check the following PDF document.
+[presentation pdf.pdf](https://github.com/Abir196/2023-GenAI-Hackathon/files/13697858/presentation.pdf.pdf)
 
 ## Project Structure:
 
