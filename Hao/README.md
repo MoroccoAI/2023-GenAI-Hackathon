@@ -41,12 +41,20 @@ More features will be added later:
 - FAISS
 - Streamlit
 
-
 ## Architecture
 
 ![Image](architecture.png)
 
-## Demo:
+## Demo
+
 - [Deployed App](https://medicaltutor.streamlit.app/)
 - [Video Demo](https://youtu.be/qFfjY2u_ruo)
 
+## Instructions
+- The app is deployed on Streamlit Community Cloud you can access it [here](https://medicaltutor.streamlit.app/).  
+
+To run the app locally please follow these steps:
+1. `git clone https://github.com/HaoES/Meditron-RAG.git`
+2. `cd Meditron-RAG`
+3. `pip install -r requirements.txt`
+4. `streamlit run app.py`
