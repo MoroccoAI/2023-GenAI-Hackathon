@@ -1,4 +1,4 @@
-# 2023-GenAI-Hackathon
+# Elite Genera Finance
 
 ## Problem 
 
@@ -24,7 +24,8 @@ Our project:
 
 <a href = "https://github.com/salmaelbarbori/2023-GenAI-Hackathon/blob/main/elitegenera-financial-geeks/code/app/EliteGenera_UI.jpeg">
     <img src = "https://github.com/salmaelbarbori/2023-GenAI-Hackathon/blob/main/elitegenera-financial-geeks/code/app/EliteGenera_UI.jpeg" alt = "Demo" />
-
+- Link for the application: https://elitefinance-csv.streamlit.app/
+    
 ## How to run the project?
 Fork the repository, Enter the app folder then run the script, as it contains:
 - The script for the Generative AI model.
