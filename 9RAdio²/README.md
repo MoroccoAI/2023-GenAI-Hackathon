@@ -1,5 +1,4 @@
-![image](https://github.com/FZ-N/9RAdio/assets/41304333/4571131e-6f54-4134-b439-09602a965cfd)
-
+![image](https://github.com/FZ-N/2023-GenAI-Hackathon/assets/41304333/3b6da154-e30a-4730-b8dc-097f3638e8ba)
 
 # 9RAdio²
 Introduces an AI-assisted radiological diagnosis accelerator, designed to revolutionize the patient journey in medical imaging.
