@@ -91,7 +91,7 @@ The system uses the Google Speech Recognition service to convert spoken words to
 
 ## Demos
 
-[Demo](https://github.com/MoroccoAI/2023-GenAI-Hackathon/tree/main/Eldians/Demo_Eldians_Version_0.2) (Demo_Eldians_Version_0.2)
+[Demo](https://github.com/Lourarhi-Yahya/2023-GenAI-Hackathon/blob/main/Eldians/Demo_Eldians_Version_0.2.mp4) (Demo_Eldians_Version_0.2)
 
 [Real time simulation](https://github.com/MoroccoAI/2023-GenAI-Hackathon/tree/main/Eldians/Real_time_demo_video) (Real_time_demo_video)
 
