@@ -9,16 +9,21 @@ The lack of economic diversification also contributes to Morocco's relatively lo
 ## Impact / Proposed Solution 
 Our project:
 -Helps Morocco to broaden its export horizons. By harnessing the power of advanced analytics and predictive modeling, we aim to not only optimize existing portfolios but also unveil untapped opportunities that will position Morocco as a competitive force in the global market.​
-- Augmente the ability to make informed, data-driven decisions in real-time about Products that bring the most value to Morocco.
+- Augmented the ability to make informed, data-driven decisions in real-time about Products that bring the most value to Morocco.
 - Position Morocco to thrive in the ever-evolving global economic landscape.
 
 ## Outcome / Results
 - Elevate Morocco's Global Economic Standing from 81 to 60 in 5 years.
-- Resilience Through Diversified Portfolios by entering new market and surviving in the competitive landscape​.
+- Resilience Through Diversified Portfolios by entering new markets and surviving in the competitive landscape.
 - Precision Export Diversification by personalizing our export, the right product to the right target at the right time.
 
 ## Recommendations
-- This project can be better if we include a persona from the miniter of industry and trade to make it more personalized, as well as to have access to more data in an ethical way.
+- This project can be better if we include a persona from the minister of industry and trade to make it more personalized, as well as to have access to more data in an ethical way.
+
+## Demo
+
+<a href = "https://github.com/salmaelbarbori/2023-GenAI-Hackathon/blob/main/elitegenera-financial-geeks/code/app/EliteGenera_UI.jpeg">
+    <img src = "https://github.com/salmaelbarbori/2023-GenAI-Hackathon/blob/main/elitegenera-financial-geeks/code/app/EliteGenera_UI.jpeg" alt = "Demo" />
 
 ## How to run the project?
 Fork the repository, Enter the app folder then run the script, as it contains:
