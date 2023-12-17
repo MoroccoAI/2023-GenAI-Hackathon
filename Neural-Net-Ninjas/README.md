@@ -1,7 +1,9 @@
-<img src="https://github.com/ismailza/2023-GenAI-Hackathon/assets/122171824/20f2a89c-6f93-406a-9d80-0d0b717b492f" align="right" />
+<img src="https://github.com/ismailza/2023-GenAI-Hackathon/assets/122171824/7dd0f12b-39bf-4aeb-b103-5799452c960d" align="right" />
 
 # 2023-GenAI-Hackathon
 The MoroccoAI Generative AI Hackathon aims to foster innovation and collaboration within Morocco's burgeoning AI ecosystem. As a participant, we are asked to use the latest GenAI advances to build cutting edge solutions to solve business problems in specific industries.
+
+<img src="https://github.com/ismailza/2023-GenAI-Hackathon/assets/122171824/fb445767-31db-4ba4-8e4e-0e74ea87f8c5" />
 
 # Neural Net Ninjas - InnovEducation
 Welcome to the InnovEducation Chatbot project developed by the Neural Net Ninjas team. We are a group of passionate students who are dedicated to making education more accessible and effective for all. Our team is composed of the following members: [Ismail ZAHIR](https://github.com/ismailza), [Abdelmajid ZADDI](https://github.com/LHW001abc) and [Jalal Eddine OUTGOUGA](https://github.com/jeddineO).
@@ -16,6 +18,7 @@ InnovEducation, a groundbreaking educational platform designed to address the ge
     - [Background and Problem Statement](#background-and-problem-statement)
     - [Impact and Proposed Solution](#impact-and-proposed-solution)
     - [Project Outcomes and Deliverables](#project-outcomes-and-deliverables)
+  - [Demo](#demo)
   - [Project Structure](#project-structure)
   - [Instructions](#instructions)
     - [Requirements:](#requirements)
@@ -98,14 +101,19 @@ II. **Ingesting a PDF document and automatically generating questions for studen
 
 - User-friendly interface allowing users to specify criteria for generated exams.
 
+## Demo
+
+- Video Demo of the project: [Link](https://youtu.be/EILEun7JT18?si=QgfEnl4SuWSC7MrL)
+
+## Pitch
+
+- Pitch Video: [Link](https://youtu.be/VUuMgFoO0NA?si=HDq_9LVT0iEILnxz)
+- Pitch deck file: [Link](https://drive.google.com/file/d/1z8Tj4mk8G2wakSZURxYHzVdJsK9sJusB/view?usp=sharing)
+
 ## Project Structure
 
 ```bash
 Neural-Net-Ninjas
-├───Demos
-│   ├───Demo1: PDF Questions Answering App
-│   ├───Demo2: Analyse of a PDF Exam
-│   └───Demo3: Generate questions from PDF Exam and correct answers given by students
 ├───src
 │   ├───venv
 │   |───.env
@@ -114,7 +122,8 @@ Neural-Net-Ninjas
 │   |───generexam_la_correction.py
 │   |───requirements.txt
 │   └───streamlit.py
-└───CONTRIBUTORS
+├───AUTHORS
+└───README.md
 ```
 
 ## Instructions
