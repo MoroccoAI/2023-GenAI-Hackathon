@@ -115,27 +115,17 @@ To take a look at the presentation of SehhaTech, you can check the following PDF
 
 ## Usage:
 
-**Step 1: Clone the Repository**
 
-Clone the repository using the following command:
+**Step 1: Navigate to the Source Code Folder**
 
-```bash
-git clone https://github.com/Abir196/2023-GenAI-Hackathon.git
-```
-**Step 2: Navigate to the Source Code Folder**
+Go to the `SehhaTech/Source Code` folder the repository.
 
-Go to the `SehhaTech/Source Code` folder within the cloned repository.
+**Step 2: Open the DemoSehhatech.ipynb Notebook on Colab**
 
-**Step 3: Open the DemoSehhatech.ipynb Notebook on Colab**
-
-Open the `DemoSehhatech.ipynb` notebook on Google Colab. Note that using another environment may lead to file path issues.
+Download and Open the `DemoSehhatech.ipynb` notebook on Google Colab. Note that using another environment/editor may lead to file path issues.
 
 **Note: Ensure that GPU acceleration is activated in Colab (not TPU) for optimal performance, as the VLM will not work**
 
-**Step 4: Upload Remaining Files**
+**Step 3: Execute the code of the notebook**
 
-Upload all the remaining files from the `Source Code` folder to Colab's `/content/` folder.
-
-**Step 5: Execute the Code**
-
-Execute the code in the `DemoSehhatech.ipynb` notebook to run the demonstration.
+Execute the code in the `DemoSehhatech.ipynb` notebook to run the demonstration. (it includes a setup section to install the dependencies)
