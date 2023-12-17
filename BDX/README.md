@@ -20,7 +20,8 @@ The plateform takes a course section in arabic and number of images to generate 
 - **step 3** : Click on generate and wait to be amazed. 
 - **step 4** : Go to course content to check the final result.
 ### Link to Demo and ressources
-- demo - [link](https://colab.research.google.com/drive/1fTys8JRwuNc8Xh_zmJYVKiTtFcQwfQ9z?usp=sharing) 
+- Colab notebook demo - [link](https://colab.research.google.com/drive/1fTys8JRwuNc8Xh_zmJYVKiTtFcQwfQ9z?usp=sharing)
+- Video demo - [link](https://drive.google.com/file/d/1N7lrWqK9lqjb5cMBKxR8eZ5icipu1_87/view?usp=sharing)
 - Mr Abdellatif Miraoui statement about including AI in moroccan education - [link](https://telquel.ma/instant-t/2023/12/12/abdellatif-miraoui-appelle-a-une-appropriation-active-de-lia-dans-lenseignement_1845724/) 
 
 ### Next steps
