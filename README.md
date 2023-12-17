@@ -103,7 +103,12 @@ II. **Ingesting a PDF document and automatically generating questions for studen
 
 ## Demo
 
-- Video Demo of the project: [Link](https://drive.google.com/file/d/17NNoa8lnxd_wrX-gY9sOWmOAw_woxokm/view?usp=sharing)
+- Video Demo of the project: [Link](https://youtu.be/EILEun7JT18?si=QgfEnl4SuWSC7MrL)
+
+## Pitch
+
+- Pitch Video: [Link](https://youtu.be/VUuMgFoO0NA?si=HDq_9LVT0iEILnxz)
+- Pitch deck file: [Link](https://drive.google.com/file/d/1z8Tj4mk8G2wakSZURxYHzVdJsK9sJusB/view?usp=sharing)
 
 ## Project Structure
 
