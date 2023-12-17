@@ -84,10 +84,12 @@ https://github.com/Abir196/2023-GenAI-Hackathon/assets/46868319/61a7edf0-1594-46
 
 For the safety aspect of our solution, the chatbot is only intended to be used to understand one's symptoms and find adequate doctors to visit. To enhance the accuracy and hence the safety of SehhaTech, we prepared an evaluation application for doctors to evaluate the system for us to develop it further.
 
-**Evaluation Dataset** : *[VQA-RAD Dataset](https://huggingface.co/datasets/flaviagiammarino/vqa-rad)*
+**Evaluation with questions by clinician** :
 <p align="center">
   <img src="eval2.png" alt="System's Architecture">
 </p>
+
+**Evaluation with Benchmark Datasets** : *[VQA-RAD Dataset](https://huggingface.co/datasets/flaviagiammarino/vqa-rad)*
 <p align="center">
   <img src="eval1.png" alt="System's Architecture">
 </p>
