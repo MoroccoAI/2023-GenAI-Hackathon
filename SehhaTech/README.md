@@ -125,6 +125,8 @@ Go to the `SehhaTech/Source Code` folder within the cloned repository.
 
 Open the `DemoSehhatech.ipynb` notebook on Google Colab. Note that using another environment may lead to file path issues.
 
+**Note: Ensure that GPU acceleration is activated in Colab (not TPU) for optimal performance, as the VLM will not work**
+
 **Step 4: Upload Remaining Files**
 
 Upload all the remaining files from the `Source Code` folder to Colab's `/content/` folder.
