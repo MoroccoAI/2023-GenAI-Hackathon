@@ -1,4 +1,4 @@
-# EcoQ
+<p align="center"><img width="50%" src="logo_github.png"></p>
 
 ------
 ## Abstract
