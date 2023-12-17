@@ -50,5 +50,5 @@ https://www.kaggle.com/code/tapliershiru/pix2pix-image-to-image-translation-tens
 https://thepythoncode.com/article/finetune-vit-for-image-classification-using-transformers-in-python
 
 https://github.com/krishnaik06/Deployment-Deep-Learning-Model/blob/master/app.py
-
+link for saved ViT model: https://drive.google.com/file/d/17n_NdO9Qp040anIVOfx96ZTwwJ_OmCHX/view?usp=sharing
 For the Flask structure: https://drive.google.com/drive/folders/1QbAAbmcKbfjW_ksCNgHzMdiWPpvcdupI?usp=sharing
