@@ -29,7 +29,7 @@ Our project comprises four key components:
 (**Note: The libraries and APIs that were mentioned in the following sections and aren't shown in the code were indeed used at first. But due to better alternatives we decided to no longer use them. For example : we started working with NLLB models for speech and text processing but when we heard of Seamless, we opted for the latter**)
 ### 1. Speech to Text
 
-Speech to text functionality is achieved through the collaboration of two models:
+Speech to text functionality is achieved through the use of three models:
 
 - *[wav2vec2-large-xlsr-moroccan](https://huggingface.co/othrif/wav2vec2-large-xlsr-moroccan)*
 - *[Whisper](https://github.com/openai/whisper)*
