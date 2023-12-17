@@ -104,14 +104,11 @@ To take a look at the presentation of SehhaTech, you can check the following PDF
  │ ├─[report_generation](Source%20Code/report_generation.ipynb)   # Report Generation code <br>
  │ ├─[speech_generation](Source%20Code/speech_generation.ipynb)   # Speech Generation code <br>
  │ ├─[text_speech_processing](Source%20Code/text_speech_processing.ipynb)   # Text-Speech Processing code <br>
- │ ├─[test](Source%20Code/test)  # test-related files <br>
- │ │ ├─[input_img](Source%20Code/test/input_img)   # Inference images <br>
- │ │ ├─[output_report](Source%20Code/test/output_report)   # Inference result <br>
 
 ## Usage:
 
 To use SehhaTech on your machine, follow the next steps :
 
   - Step 1: clone the repository
-  - Step 3: Upload the content of Source Code to Google Colab (the demo notebook and the other modules the /content/ folder
+  - Step 3: Upload the content of Source Code to Google Colab (the demo notebook and the other modules should all be in the **content/** folder
   - Step 2: run the file "DemoSehhatech.ipynb"
