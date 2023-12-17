@@ -13,3 +13,17 @@ External Data Integration: Included data on Moroccan business environments to ma
 Localized Advice Generation: Enabled the chatbot to provide guidance tailored to the Moroccan entrepreneurial landscape.
 
 User Interface: Designed an easy-to-use interface for seamless interaction with the chatbot.
+
+instruction to run the application : 
+
+1 - open google colab
+
+2 - install requirements
+
+3 - run "Rag financial advisor GPU.ipynb"
+
+or run demo on github
+
+https://huggingface.co/spaces/MahmoudRox/Geek_team 
+
+
