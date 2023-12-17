@@ -109,5 +109,5 @@ To take a look at the presentation of SehhaTech, you can check the following PDF
 To use SehhaTech on your machine, follow the next steps :
 
   - Step 1: clone the repository
-  - Step 3: Upload the content of Source Code to Google Colab (the demo notebook and the other modules should all be in the `**content/**` folder
+  - Step 3: Upload the content of Source Code to Google Colab (the demo notebook and the other modules should all be in the `content/` folder
   - Step 2: run the file "DemoSehhatech.ipynb"
