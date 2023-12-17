@@ -1,0 +1,30 @@
+"Product Name","Value in MAD","PCI","Importer","Growth Percentage","ECI"
+"Phosphates",25000000,1,USA,20%,10
+"Fertilizers",15000000,1,EU,15%,20
+"Petroleum Products",12000000,0.5,Spain,10%,30
+"Natural Gas",8000000,0.5,Spain,15%,40
+"Automotive Parts",7000000,0.5,France,10%,50
+"Textiles and Clothing",6000000,0.5,EU,10%,60
+"Food Products",5000000,0.5,France,15%,70
+"Metals",4000000,0.5,Germany,10%,80
+"Chemicals",3000000,0.5,Belgium,10%,90
+"Aerospace Components",2000000,0.5,France,15%,100
+"Electrical Machinery",1500000,0.5,Germany,10%,110
+"Plastics",1200000,0.5,Italy,10%,120
+"Rubber Products",1000000,0.5,France,15%,130
+"Leather Products",800000,0.5,Italy,10%,140
+"Wood Products",600000,0.5,France,15%,150
+"Paper Products",500000,0.5,Germany,10%,160
+"Glass Products",400000,0.5,Belgium,10%,170
+"Ceramic Products",300000,0.5,Italy,10%,180
+"Stone Products",250000,0.5,France,15%,190
+"Metal Products",200000,0.5,Germany,10%,200
+"Electronic Components",150000,0.5,Taiwan,10%,210
+"Machinery",120000,0.5,Germany,10%,220
+"Equipment",100000,0.5,France,15%,230
+"Furniture",80000,0.5,Italy,10%,240
+"Appliances",60000,0.5,France,15%,250
+"Medical Equipment",40000,0.5,Germany,10%,260
+"Vehicles",20000,0.5,France,15%,270
+"Aircraft",10000,0.5,France,15%,280
+"Ships",5000,0.5,France,15%,290
