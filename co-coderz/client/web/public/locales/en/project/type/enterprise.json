@@ -1,0 +1,279 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "tag": "goal",
+      "required": true,
+      "multiple": false,
+      "title": "Project Goal",
+      "description": "What is the main goal of your enterprise project?",
+      "answers": [
+        "Improve operational efficiency",
+        "Enhance customer experience",
+        "Develop new products/services",
+        "Expand to new markets",
+        "Implement digital transformation",
+        "Optimize supply chain",
+        "Streamline business processes",
+        "Improve data analytics capabilities",
+        "Other"
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "features",
+      "required": true,
+      "multiple": true,
+      "title": "Essential Features",
+      "description": "What features are essential for your enterprise project?",
+      "answers": [
+        "Advanced security measures",
+        "Scalability and flexibility",
+        "Integration with existing systems",
+        "Real-time data analytics",
+        "Automated workflows",
+        "Personalization and user segmentation",
+        "Multi-language support",
+        "Multi-platform compatibility",
+        "Collaboration and communication tools",
+        "Performance monitoring and optimization",
+        "Other"
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "expertise",
+      "required": true,
+      "multiple": false,
+      "title": "Technical Expertise",
+      "description": "What level of technical expertise does your enterprise have?",
+      "answers": [
+        "We have an experienced in-house IT team",
+        "We work with external IT consultants",
+        "We rely on technology vendors and partners",
+        "We have a dedicated R&D team",
+        "Other"
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "platform",
+      "required": true,
+      "multiple": false,
+      "title": "Preferred Platform",
+      "description": "Which platform or technology stack do you prefer for your enterprise project?",
+      "answers": [
+        "On-premises infrastructure",
+        "Cloud-based solutions",
+        "Hybrid infrastructure",
+        "Microservices architecture",
+        "Containerization (Docker, Kubernetes)",
+        "Serverless computing",
+        "Other"
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "monetization",
+      "required": true,
+      "multiple": false,
+      "title": "Monetization",
+      "description": "How do you plan to monetize your enterprise project?",
+      "answers": [
+        "By offering subscription plans",
+        "Through one-time purchases",
+        "By providing premium features",
+        "With a freemium model",
+        "Through licensing and partnerships",
+        "Other"
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "resources",
+      "required": true,
+      "multiple": true,
+      "title": "Resources Needed",
+      "description": "What resources does your enterprise project require?",
+      "answers": [
+        "IT specialists and developers",
+        "Business analysts",
+        "Project managers",
+        "Data scientists and analysts",
+        "UI/UX designers",
+        "Testing and quality assurance",
+        "Financial resources and budget",
+        "Hardware and infrastructure",
+        "Cloud computing services",
+        "Training and skill development",
+        "Other"
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "company_size",
+      "required": true,
+      "multiple": false,
+      "title": "Company Size",
+      "description": "How many employees does your enterprise have?",
+      "answers": [
+        "Less than 500",
+        "500-1,000",
+        "1,001-5,000",
+        "5,001-10,000",
+        "More than 10,000"
+      ]
+    },
+    {
+      "id": 8,
+      "tag": "geographical_presence",
+      "required": true,
+      "multiple": true,
+      "title": "Geographical Presence",
+      "description": "In which regions or countries does your enterprise operate?",
+      "answers": [
+        "North America",
+        "Europe",
+        "Asia-Pacific",
+        "Latin America",
+        "Middle East",
+        "Africa",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 9,
+      "tag": "market_segment",
+      "required": true,
+      "multiple": true,
+      "title": "Market Segment",
+      "description": "Which market segments does your enterprise serve?",
+      "answers": [
+        "Finance and Banking",
+        "Healthcare and Life Sciences",
+        "Manufacturing and Industrial",
+        "Retail and Consumer Goods",
+        "Technology and IT Services",
+        "Telecommunications",
+        "Energy and Utilities",
+        "Government and Public Sector",
+        "Education and E-learning",
+        "Media and Entertainment",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 10,
+      "tag": "global_operations",
+      "required": true,
+      "multiple": false,
+      "title": "Global Operations",
+      "description": "Does your enterprise have global operations?",
+      "answers": [
+        "Yes, we operate globally",
+        "No, we are regionally focused"
+      ]
+    },
+    {
+      "id": 11,
+      "tag": "partnerships",
+      "required": false,
+      "multiple": true,
+      "title": "Strategic Partnerships",
+      "description": "Does your enterprise have strategic partnerships with other companies or organizations?",
+      "answers": [
+        "Yes, we have multiple strategic partnerships",
+        "Yes, we have a few strategic partnerships",
+        "No, we don't have any strategic partnerships yet"
+      ]
+    },
+    {
+      "id": 12,
+      "tag": "it_infrastructure",
+      "required": true,
+      "multiple": true,
+      "title": "IT Infrastructure",
+      "description": "What type of IT infrastructure does your enterprise use?",
+      "answers": [
+        "On-premises data centers",
+        "Private cloud solutions",
+        "Public cloud solutions",
+        "Hybrid cloud solutions",
+        "Software-defined networking (SDN)",
+        "High-performance computing (HPC)",
+        "Edge computing",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 13,
+      "tag": "data_management",
+      "required": true,
+      "multiple": false,
+      "title": "Data Management",
+      "description": "How does your enterprise manage and utilize data?",
+      "answers": [
+        "Big Data analytics",
+        "Data warehousing",
+        "Data lakes",
+        "Real-time data processing",
+        "Data governance and compliance",
+        "Data security and encryption",
+        "Data-driven decision making",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 14,
+      "tag": "digital_strategy",
+      "required": true,
+      "multiple": false,
+      "title": "Digital Strategy",
+      "description": "What is your enterprise's approach to digital transformation?",
+      "answers": [
+        "Digital-first approach",
+        "Omni-channel strategy",
+        "Mobile-centric approach",
+        "Data-driven digital transformation",
+        "Customer experience and personalization",
+        "AI-driven digital strategy",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 15,
+      "tag": "innovation_initiatives",
+      "required": false,
+      "multiple": true,
+      "title": "Innovation Initiatives",
+      "description": "Is your enterprise involved in any innovation initiatives or R&D projects?",
+      "answers": [
+        "Yes, we have ongoing innovation initiatives",
+        "Yes, we invest in research and development",
+        "No, we don't have specific innovation initiatives"
+      ]
+    },
+    {
+      "id": 16,
+      "tag": "sustainability",
+      "required": false,
+      "multiple": false,
+      "title": "Sustainability",
+      "description": "Is sustainability a key focus for your enterprise?",
+      "answers": [
+        "Yes, sustainability is a top priority",
+        "We have sustainability initiatives",
+        "No, sustainability is not a primary focus"
+      ]
+    },
+    {
+      "id": 17,
+      "tag": "future_growth",
+      "required": false,
+      "multiple": false,
+      "title": "Future Growth",
+      "description": "What are your enterprise's plans for future growth and expansion?",
+      "answers": []
+    }
+  ]
+}

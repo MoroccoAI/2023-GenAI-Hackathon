@@ -1,0 +1,194 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "tag": "goal",
+      "required": true,
+      "multiple": false,
+      "title": "Project Goal",
+      "description": "What is the main goal of your business project?",
+      "answers": [
+        "Expand an existing business",
+        "Launch a new product/service",
+        "Enter a new market",
+        "Optimize business operations",
+        "Improve customer experience",
+        "Increase profitability",
+        "Other"
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "industry",
+      "required": true,
+      "multiple": false,
+      "title": "Industry",
+      "description": "What industry does your business project belong to?",
+      "answers": [
+        "IT/Technology",
+        "Finance/Banking",
+        "Healthcare",
+        "Retail/E-commerce",
+        "Education",
+        "Marketing/Advertising",
+        "Manufacturing",
+        "Entertainment/Media",
+        "Transportation/Logistics",
+        "Agriculture/Energy/Environmental",
+        "Real Estate/Construction",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "target_market",
+      "required": true,
+      "multiple": true,
+      "title": "Target Market",
+      "description": "Who is your target market for the business project?",
+      "answers": [
+        "Consumers (B2C)",
+        "Businesses (B2B)",
+        "Young adults",
+        "Families",
+        "Senior citizens",
+        "High-income individuals",
+        "Tech-savvy customers",
+        "Other"
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "competitive_analysis",
+      "required": true,
+      "multiple": true,
+      "title": "Competitive Analysis",
+      "description": "Have you conducted a competitive analysis for your business project?",
+      "answers": [
+        "Yes, thoroughly analyzed competitors",
+        "Yes, but need more insights",
+        "No, not yet performed",
+        "Not applicable"
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "business_model",
+      "required": true,
+      "multiple": false,
+      "title": "Business Model",
+      "description": "What is your business model for the project?",
+      "answers": [
+        "E-commerce",
+        "Subscription-based",
+        "Freemium",
+        "Pay-per-use",
+        "Marketplace",
+        "Franchise",
+        "Advertising-based",
+        "Other"
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "investment",
+      "required": true,
+      "multiple": false,
+      "title": "Investment",
+      "description": "Are you seeking external investment for your business project?",
+      "answers": [
+        "Yes, from venture capitalists",
+        "Yes, from angel investors",
+        "Yes, from banks or financial institutions",
+        "No, self-funded project",
+        "Undecided"
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "team_members",
+      "required": true,
+      "multiple": true,
+      "title": "Team Members",
+      "description": "What key roles do you have in your business project?",
+      "answers": [
+        "Co-founders",
+        "Business strategists",
+        "Marketing experts",
+        "Product development team",
+        "Sales representatives",
+        "Financial analysts",
+        "Operations managers",
+        "Other"
+      ]
+    },
+    {
+      "id": 8,
+      "tag": "marketing_strategy",
+      "required": false,
+      "multiple": true,
+      "title": "Marketing Strategy",
+      "description": "What marketing strategies do you plan to use for your business project?",
+      "answers": [
+        "Digital marketing",
+        "Content marketing",
+        "Social media marketing",
+        "Influencer marketing",
+        "Email marketing",
+        "Search Engine Optimization (SEO)",
+        "Offline advertising",
+        "Partnerships and collaborations",
+        "Other"
+      ]
+    },
+    {
+      "id": 9,
+      "tag": "growth_plan",
+      "required": false,
+      "multiple": false,
+      "title": "Growth Plan",
+      "description": "What is your growth plan for the business project?",
+      "answers": [
+        "Expand to new locations/markets",
+        "Diversify product/service offerings",
+        "Acquire other businesses",
+        "Franchise the business model",
+        "Increase market share",
+        "Form strategic alliances",
+        "Other"
+      ]
+    },
+    {
+      "id": 10,
+      "tag": "challenges",
+      "required": false,
+      "multiple": true,
+      "title": "Challenges",
+      "description": "What challenges do you anticipate in implementing your business project?",
+      "answers": [
+        "Market saturation",
+        "Tough competition",
+        "Financial constraints",
+        "Regulatory hurdles",
+        "Finding the right talent",
+        "Managing business growth",
+        "Building brand awareness",
+        "Changing consumer trends",
+        "Other"
+      ]
+    },
+    {
+      "id": 11,
+      "tag": "additional_notes",
+      "required": false,
+      "multiple": false,
+      "title": "Additional Notes",
+      "description": "Please provide any additional notes or information about your business project.",
+      "answers": [],
+      "user_input": {
+        "type": "text",
+        "placeholder": "Enter any additional notes (optional)"
+      }
+    }
+  ]
+}

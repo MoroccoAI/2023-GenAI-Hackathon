@@ -1,0 +1,659 @@
+[
+    {
+        "name": "Analytics",
+        "description": "[Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.",
+        "related_tags": [
+            "Database Management",
+            "Personal Dashboards"
+        ]
+    },
+    {
+        "name": "Archiving and Digital Preservation (DP)",
+        "description": "Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preservation](https://en.wikipedia.org/wiki/Digital_preservation) software.",
+        "related_tags": [
+            "Content Management Systems (CMS)"
+        ]
+    },
+    {
+        "name": "Automation",
+        "description": "[Automation](https://en.wikipedia.org/wiki/Automation) software designed to reduce human intervention in processes.",
+        "related_tags": [
+            "Internet of Things (IoT)",
+            "Software Development - Continuous Integration & Deployment"
+        ]
+    },
+    {
+        "name": "Backup",
+        "description": "[Backup](https://en.wikipedia.org/wiki/Backup) software.",
+        "redirect": [
+            {
+                "title": "awesome-sysadmin/Backups",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#backups"
+            }
+        ]
+    },
+    {
+        "name": "Blogging Platforms",
+        "description": "A [blog](https://en.wikipedia.org/wiki/Blog) is a discussion or informational website consisting of discrete, diary-style text entries (posts).",
+        "external_links": [
+            {
+                "title": "WeblogMatrix",
+                "url": "https://www.weblogmatrix.org/"
+            }
+        ],
+        "related_tags": [
+            "Static Site Generators",
+            "Content Management Systems (CMS)"
+        ]
+    },
+    {
+        "name": "Booking and Scheduling",
+        "description": "Event scheduling, reservation, and appointment management software.",
+        "related_tags": [
+            "Polls and Events"
+        ]
+    },
+    {
+        "name": "Bookmarks and Link Sharing",
+        "description": "Software which allows users to add, annotate, edit, and share [bookmarks](https://en.wikipedia.org/wiki/Bookmark_(digital)) of web documents."
+    },
+    {
+        "name": "Calendar & Contacts",
+        "description": "[CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol servers and web clients/interfaces for [Electronic calendar](https://en.wikipedia.org/wiki/Calendaring_software), [address book](https://en.wikipedia.org/wiki/Address_book) and [contact management](https://en.wikipedia.org/wiki/Contact_manager).",
+        "external_links": [
+            {
+                "title": "Comparison of CalDAV and CardDAV implementations - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations"
+            }
+        ],
+        "related_tags": [
+            "Groupware"
+        ]
+    },
+    {
+        "name": "Communication - Custom Communication Systems",
+        "description": "[Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users, using their own custom protocols."
+    },
+    {
+        "name": "Communication - Email - Complete Solutions",
+        "description": "Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g. for inexperienced or impatient admins."
+    },
+    {
+        "name": "Communication - Email - Mail Delivery Agents",
+        "description": "[Mail Delivery Agents](https://en.wikipedia.org/wiki/Message_delivery_agent) (MDAs) - [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)/[POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) server software."
+    },
+    {
+        "name": "Communication - Email - Mail Transfer Agents",
+        "description": "[Mail Transfer Agents](https://en.wikipedia.org/wiki/Message_transfer_agent) (MTAs) - [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) servers."
+    },
+    {
+        "name": "Communication - Email - Mailing Lists and Newsletters",
+        "description": "[Mailing list](https://en.wikipedia.org/wiki/Mailing_list) servers and mass mailing software - one message to many recipients."
+    },
+    {
+        "name": "Communication - Email - Webmail Clients",
+        "description": "[Webmail](https://en.wikipedia.org/wiki/Webmail) clients."
+    },
+    {
+        "name": "Communication - IRC",
+        "description": "[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software."
+    },
+    {
+        "name": "Communication - SIP",
+        "description": "[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software."
+    },
+    {
+        "name": "Communication - Social Networks and Forums",
+        "description": "[Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software."
+    },
+    {
+        "name": "Communication - Video Conferencing",
+        "description": "[Video/Web Conferencing](https://en.wikipedia.org/wiki/Web_conferencing) tools and software.",
+        "related_tags": [
+            "Conference Management"
+        ]
+    },
+    {
+        "name": "Communication - XMPP - Servers",
+        "description": "[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) servers."
+    },
+    {
+        "name": "Communication - XMPP - Web Clients",
+        "description": "[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) Web clients/interfaces."
+    },
+    {
+        "name": "Community-Supported Agriculture (CSA)",
+        "description": "Management and administration tools for community supported agriculture and food cooperatives.",
+        "related_tags": [
+            "E-commerce"
+        ]
+    },
+    {
+        "name": "Conference Management",
+        "description": "Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_management) and preparation/management of academic conferences."
+    },
+    {
+        "name": "Content Management Systems (CMS)",
+        "description": "[Content Management Systems](https://en.wikipedia.org/wiki/Content_management_system) offer a practical way to setup a website with many features, using third party plugins, themes and functionality that are easy to add and customize.",
+        "related_tags": [
+            "Blogging Platforms",
+            "Static Site Generators",
+            "Photo and Video Galleries"
+        ]
+    },
+    {
+        "name": "Database Management",
+        "description": "Web interfaces for [database](https://en.wikipedia.org/wiki/Database) management. Includes tools for database analytics and visualization.",
+        "external_links": [
+            {
+                "title": "dbdb.io - Database of Databases",
+                "url": "https://dbdb.io/"
+            }
+        ],
+        "related_tags": [
+            "Analytics",
+            "Automation"
+        ]
+    },
+    {
+        "name": "DNS",
+        "description": "[DNS](https://en.wikipedia.org/wiki/Domain_Name_System) servers and management tools with advertisement blocking funtionality, primarily aimed at home or small networks.",
+        "external_links": [
+            {
+                "title": "awesome-sysadmin/DNS - Servers",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#dns---servers"
+            },
+            {
+                "title": "awesome-sysadmin/DNS - Control Panels & Domain Management",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#dns---control-panels--domain-management"
+            }
+        ]
+    },
+    {
+        "name": "Document Management - E-books",
+        "description": "[Ebook](https://en.wikipedia.org/wiki/Ebook) library management software."
+    },
+    {
+        "name": "Document Management - Institutional Repository and Digital Library Software",
+        "description": "[Institutional repository](https://en.wikipedia.org/wiki/Institutional_repository) and [digital library](https://en.wikipedia.org/wiki/Digital_library) management software."
+    },
+    {
+        "name": "Document Management - Integrated Library Systems (ILS)",
+        "description": "An [integrated library system](https://en.wikipedia.org/wiki/Integrated_library_system) is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.",
+        "related_tags": [
+            "Content Management Systems (CMS)",
+            "Archiving and Digital Preservation (DP)"
+        ]
+    },
+    {
+        "name": "Document Management",
+        "description": "A [document management system](https://en.wikipedia.org/wiki/Document_management_system) (DMS) is a system used to receive, track, manage and store documents and reduce paper."
+    },
+    {
+        "name": "E-commerce",
+        "description": "[E-commerce](https://en.wikipedia.org/wiki/E-commerce) software.",
+        "related_tags": [
+            "Community-Supported Agriculture (CSA)"
+        ]
+    },
+    {
+        "name": "Federated Identity & Authentication",
+        "description": "[Federated identity](https://en.wikipedia.org/wiki/Federated_identity) and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) software.",
+        "redirect": [
+            {
+                "title": "awesome-sysadmin/Identity Management",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#identity-management"
+            }
+        ]
+    },
+    {
+        "name": "Feed Readers",
+        "description": "A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader, is an application that aggregates web content such as newspapers/blogs/vlogs/podcasts in one location for easy viewing."
+    },
+    {
+        "name": "File Transfer - Distributed Filesystems",
+        "description": "Network distributed filesystems.",
+        "redirect": [
+            {
+                "title": "awesome-sysadmin/Distributed Filesystems",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems"
+            }
+        ]
+    },
+    {
+        "name": "File Transfer - Object Storage & File Servers",
+        "description": "[Object storage](https://en.wikipedia.org/wiki/Object_storage) is a computer data storage that manages data as objects, as opposed to other storage architectures like file systems which manages data as a file hierarchy, and block storage which manages data as blocks within sectors and tracks."
+    },
+    {
+        "name": "File Transfer - Peer-to-peer Filesharing",
+        "description": "[Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) is the distribution and [sharing](https://en.wikipedia.org/wiki/File_sharing) of digital media using [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) (P2P) networking technology."
+    },
+    {
+        "name": "File Transfer - Single-click & Drag-n-drop Upload",
+        "description": "Simplified file servers for sharing of one-time/short-lived/temporary files, providing single-click or [drag-and-drop](https://en.wikipedia.org/wiki/Drag_and_drop) updload functionality."
+    },
+    {
+        "name": "File Transfer - Web-based File Managers",
+        "description": "Web-based [file managers](https://en.wikipedia.org/wiki/File_manager).",
+        "related_tags": [
+            "Groupware"
+        ]
+    },
+    {
+        "name": "File Transfer & Synchronization",
+        "description": "[File transfer](https://en.wikipedia.org/wiki/File_transfer), [sharing](https://en.wikipedia.org/wiki/File_sharing) and [synchronization software](https://en.wikipedia.org/wiki/File_synchronization) software.",
+        "related_tags": [
+            "Groupware"
+        ]
+    },
+    {
+        "name": "Games - Administrative Utilities & Control Panels",
+        "description": "Utilities for managing game servers.",
+        "related_tags": [
+            "Games"
+        ]
+    },
+    {
+        "name": "Games",
+        "description": "Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Browser_game).",
+        "related_tags": [
+            "Games - Administrative Utilities & Control Panels"
+        ]
+    },
+    {
+        "name": "Genealogy",
+        "description": "[Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software) used to record, organize, and publish genealogical data."
+    },
+    {
+        "name": "Groupware",
+        "description": "Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborative_software) is designed to help people working on a common task to attain their goals. Groupware often regroups multiple services such as file sharing, calendar/events management, address books... in a single, integrated application."
+    },
+    {
+        "name": "Human Resources Management (HRM)",
+        "description": "A [human resources management system](https://en.wikipedia.org/wiki/Human_resource_management_system) combines a number of systems and processes to ensure the easy management of [human resources](https://en.wikipedia.org/wiki/Human_resources), business processes and data."
+    },
+    {
+        "name": "Internet of Things (IoT)",
+        "description": "[Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) describes physical objects with sensors, processing ability, software, and other technologies that connect and exchange data with other devices over the Internet."
+    },
+    {
+        "name": "Inventory Management",
+        "description": "[Inventory management software](https://en.wikipedia.org/wiki/Inventory_management_software).",
+        "external_links": [
+            {
+                "title": "awesome-sysadmin/IT Asset Management",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#it-asset-management"
+            }
+        ],
+        "related_tags": [
+            "Money, Budgeting & Management",
+            "Resource Planning"
+        ]
+    },
+    {
+        "name": "Knowledge Management Tools",
+        "description": "[Knowledge management](https://en.wikipedia.org/wiki/Knowledge_management) is the collection of methods relating to creating, sharing, using and managing the knowledge and information.",
+        "related_tags": [
+            "Note-taking & Editors",
+            "Wikis",
+            "Database Management"
+        ]
+    },
+    {
+        "name": "Learning and Courses",
+        "description": "Tools and software to help with education and learning."
+    },
+    {
+        "name": "Manufacturing",
+        "description": "Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CNC machines](https://en.wikipedia.org/wiki/Numerical_control) and other physical manufacturing tools."
+    },
+    {
+        "name": "Maps and Global Positioning System (GPS)",
+        "description": "[Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.",
+        "external_links": [
+            {
+                "title": "awesome-openstreetmap",
+                "url": "https://github.com/osmlab/awesome-openstreetmap"
+            },
+            {
+                "title": "awesome-gis",
+                "url": "https://github.com/sshuair/awesome-gis"
+            }
+        ]
+    },
+    {
+        "name": "Media Streaming - Audio Streaming",
+        "description": "[Audio](https://en.wikipedia.org/wiki/Audio) streaming tools and software."
+    },
+    {
+        "name": "Media Streaming - Multimedia Streaming",
+        "description": "[Multimedia](https://en.wikipedia.org/wiki/Multimedia) streaming tools and software.",
+        "related_tags": [
+            "Media Streaming - Video Streaming",
+            "Media Streaming - Audio Streaming"
+        ]
+    },
+    {
+        "name": "Media Streaming - Video Streaming",
+        "description": "[Video](https://en.wikipedia.org/wiki/Video) streaming tools and software.",
+        "related_tags": [
+            "Video Surveillance",
+            "Media Streaming - Multimedia Streaming"
+        ]
+    },
+    {
+        "name": "Media Streaming",
+        "description": "[Streaming media](https://en.wikipedia.org/wiki/Streaming_media) is multimedia that is delivered and consumed in a continuous manner from a source, with little or no intermediate storage in network elements.",
+        "external_links": [
+            {
+                "title": "List of streaming media systems - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/List_of_streaming_media_systems"
+            },
+            {
+                "title": "Comparison of streaming media systems - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Comparison_of_streaming_media_systems"
+            }
+        ],
+        "redirect": [
+            {
+                "title": "Media streaming - Audio Streaming",
+                "url": "#media-streaming---audio-streaming"
+            },
+            {
+                "title": "Media streaming - Multimedia Streaming",
+                "url": "#media-streaming---multimedia-streaming"
+            },
+            {
+                "title": "Media streaming - Video Streaming",
+                "url": "#media-streaming---video-streaming"
+            }
+        ]
+    },
+    {
+        "name": "Miscellaneous",
+        "description": "Software that does not fit in another section."
+    },
+    {
+        "name": "Money, Budgeting & Management",
+        "description": "[Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting software.",
+        "related_tags": [
+            "Inventory Management",
+            "Resource Planning"
+        ]
+    },
+    {
+        "name": "Monitoring",
+        "description": "Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) systems, networks, applications and websites. ",
+        "redirect": [
+            {
+                "title": "awesome-sysadmin/Monitoring",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#monitoring"
+            },
+            {
+                "title": "awesome-sysadmin/Metrics and Metric Collection",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#metrics--metric-collection"
+            }
+        ]
+    },
+    {
+        "name": "Note-taking & Editors",
+        "description": "[Note taking](https://en.wikipedia.org/wiki/Note-taking) editors.",
+        "related_tags": [
+            "Wikis"
+        ]
+    },
+    {
+        "name": "Office Suites",
+        "description": "An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a collection of productivity software usually containing at least a word processor, spreadsheet and a presentation program."
+    },
+    {
+        "name": "Password Managers",
+        "description": "A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows users to store, generate, and manage their passwords for local applications and online services."
+    },
+    {
+        "name": "Pastebins",
+        "description": "A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content-hosting service used for sharing and storing code and text."
+    },
+    {
+        "name": "Personal Dashboards",
+        "description": "Dashboards for accessing information and applications.",
+        "related_tags": [
+            "Monitoring",
+            "Bookmarks and Link Sharing"
+        ]
+    },
+    {
+        "name": "Photo and Video Galleries",
+        "description": "A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that helps the user publish or share photos, pictures, videos or other digital media.",
+        "related_tags": [
+            "Static Site Generators",
+            "Photo and Video Galleries",
+            "Content Management Systems (CMS)"
+        ]
+    },
+    {
+        "name": "Polls and Events",
+        "description": "Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and [events](https://en.wikipedia.org/wiki/Event).",
+        "related_tags": [
+            "Booking and Scheduling"
+        ]
+    },
+    {
+        "name": "Proxy",
+        "description": "A [proxy](https://en.wikipedia.org/wiki/Proxy_server) is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource.",
+        "related_tags": [
+            "Web Servers"
+        ]
+    },
+    {
+        "name": "Recipe Management",
+        "description": "Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe)."
+    },
+    {
+        "name": "Remote Access",
+        "description": "[Remote desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) and [SSH](https://en.wikipedia.org/wiki/Secure_Shell) servers and web interfaces for remote management of computer systems."
+    },
+    {
+        "name": "Resource Planning",
+        "description": "Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning), including [enterprise resource and supply planning (ERP)](https://en.wikipedia.org/wiki/Enterprise_resource_planning).",
+        "related_tags": [
+            "Money, Budgeting & Management",
+            "Inventory Management"
+        ]
+    },
+    {
+        "name": "Search Engines",
+        "description": "A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an [information retrieval system](https://en.wikipedia.org/wiki/Information_retrieval) designed to help find information stored on a computer system. This includes [Web search engines](https://en.wikipedia.org/wiki/Web_search_engine)."
+    },
+    {
+        "name": "Self-hosting Solutions",
+        "description": "Software for easy installation, management and configuration of self-hosted services and applications."
+    },
+    {
+        "name": "Software Development - API Management",
+        "description": "[API management](https://en.wikipedia.org/wiki/API_management) is the process of creating and publishing [application programming interfaces (APIs)](https://en.wikipedia.org/wiki/API), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. "
+    },
+    {
+        "name": "Software Development - Continuous Integration & Deployment",
+        "description": "[Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software and tools.",
+        "redirect": [
+            {
+                "title": "awesome-sysadmin/Continuous Integration & Continuous Deployment",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment"
+            }
+        ],
+        "related_tags": [
+            "Automation"
+        ]
+    },
+    {
+        "name": "Software Development - FaaS & Serverless",
+        "description": "[Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing), [Function as a Service (FaaS)](https://en.wikipedia.org/wiki/Function_as_a_service) and [Platform as a Service (Paas)](https://en.wikipedia.org/wiki/Platform_as_a_service) management software."
+    },
+    {
+        "name": "Software Development - IDE & Tools",
+        "description": "An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) is a software application that provides comprehensive facilities to computer programmers for software development.",
+        "related_tags": [
+            "Software Development - Low Code"
+        ]
+    },
+    {
+        "name": "Software Development - Localization",
+        "description": "[Localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) is the process of adapting code and software to other languages."
+    },
+    {
+        "name": "Software Development - Low Code",
+        "description": "A [low-code](https://en.wikipedia.org/wiki/Low-code_development_platform) development platform (LCDP) provides a development environment used to create application software through a graphical user interface.",
+        "related_tags": [
+            "Software Development - IDE & Tools"
+        ]
+    },
+    {
+        "name": "Software Development - Project Management",
+        "description": "Tools and software for [software project management](https://en.wikipedia.org/wiki/Software_project_management).",
+        "related_tags": [
+            "Ticketing",
+            "Task Management & To-do Lists"
+        ]
+    },
+    {
+        "name": "Software Development - Testing",
+        "description": "Tools and software for [software testing](https://en.wikipedia.org/wiki/Software_testing)."
+    },
+    {
+        "name": "Software Development",
+        "description": "[Software development](https://en.wikipedia.org/wiki/Software_development) is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.",
+        "redirect": [
+            {
+                "title": "Software Development - API Management",
+                "url": "#software-development---api-management"
+            },
+            {
+                "title": "Software Development - Continuous Integration & Deployment",
+                "url": "#software-development---continuous-integration--deployment"
+            },
+            {
+                "title": "Software Development - FaaS & Serverless",
+                "url": "#software-development---faas--serverless"
+            },
+            {
+                "title": "Software Development - IDE & Tools",
+                "url": "#software-development---ide--tools"
+            },
+            {
+                "title": "Software Development - Localization",
+                "url": "#software-development---localization"
+            },
+            {
+                "title": "Software Development - Low Code",
+                "url": "#software-development---low-code"
+            },
+            {
+                "title": "Software Development - Project Management",
+                "url": "#software-development---project-management"
+            },
+            {
+                "title": "Software Development - Testing",
+                "url": "#software-development---testing"
+            }
+        ]
+    },
+    {
+        "name": "Static Site Generators",
+        "description": "[Static site generators](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators) generate full static HTML websites based on raw data, plain text files and a set of templates. ",
+        "redirect": [
+            {
+                "title": "staticsitegenerators.net",
+                "url": "https://staticsitegenerators.net"
+            },
+            {
+                "title": "staticgen.com",
+                "url": "https://www.staticgen.com"
+            }
+        ],
+        "related_tags": [
+            "Blogging Platforms",
+            "Photo and Video Galleries",
+            "Content Management Systems (CMS)"
+        ]
+    },
+    {
+        "name": "Status / Uptime pages",
+        "description": "[Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available. ",
+        "related_tags": [
+            "Monitoring"
+        ]
+    },
+    {
+        "name": "Task Management & To-do Lists",
+        "description": "[Task management](https://en.wikipedia.org/wiki/Task_management#Task_management_software) software.",
+        "related_tags": [
+            "Software Development - Project Management",
+            "Ticketing"
+        ]
+    },
+    {
+        "name": "Ticketing",
+        "description": "[Helpdesk](https://en.wikipedia.org/wiki/Help_desk_software), [bug](https://en.wikipedia.org/wiki/Bug_tracking_system) and [issue](https://en.wikipedia.org/wiki/Issue_tracking_system) tracking software to help the tracking of user requests, bugs and missing features.",
+        "related_tags": [
+            "Task Management & To-do Lists",
+            "Software Development - Project Management"
+        ]
+    },
+    {
+        "name": "Time Tracking",
+        "description": "[Time-tracking software](https://en.wikipedia.org/wiki/Time-tracking_software) is a category of computer software that allows its users to record time spent on tasks or projects."
+    },
+    {
+        "name": "URL Shorteners",
+        "description": "[URL shortening](https://en.wikipedia.org/wiki/URL_shortening) is the action of shortening a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) to make it substantially shorter and still direct to the required page. Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners."
+    },
+    {
+        "name": "Video Surveillance",
+        "description": "Video surveillance, also known as [Closed-circuit television (CCTV)](https://en.wikipedia.org/wiki/Closed-circuit_television), is the use of video cameras for surveillance in areas that require additional security or ongoing monitoring.",
+        "related_tags": [
+            "Media Streaming - Video Streaming"
+        ]
+    },
+    {
+        "name": "VPN",
+        "description": "A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.",
+        "redirect": [
+            {
+                "title": "awesome-sysadmin/VPN",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#vpn"
+            }
+        ]
+    },
+    {
+        "name": "Web Servers",
+        "description": "A [web server](https://en.wikipedia.org/wiki/Web_server) is a piece of software and underlying hardware that accepts requests via [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (the network protocol created to distribute web content) or its secure variant [HTTPS](https://en.wikipedia.org/wiki/HTTPS). ",
+        "redirect": [
+            {
+                "title": "awesome-sysadmin/Web",
+                "url": "https://github.com/awesome-foss/awesome-sysadmin#web"
+            }
+        ]
+    },
+    {
+        "name": "Wikis",
+        "description": "A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively edited and managed by its own audience directly using a web browser.",
+        "external_links": [
+            {
+                "title": "Wikimatrix",
+                "url": "https://www.wikimatrix.org/"
+            },
+            {
+                "title": "List of wiki software - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/List_of_wiki_software"
+            },
+            {
+                "title": "Comparison of wiki software - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Comparison_of_wiki_software"
+            }
+        ],
+        "related_tags": [
+            "Static Site Generators"
+        ]
+    }
+]

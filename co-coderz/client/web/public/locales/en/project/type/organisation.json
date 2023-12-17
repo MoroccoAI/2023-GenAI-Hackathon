@@ -1,0 +1,106 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "tag": "goal",
+      "required": true,
+      "multiple": false,
+      "title": "Project Goal",
+      "description": "What is the main goal of your non-profit organizational project?",
+      "answers": [
+        "Community service and outreach",
+        "Fundraising for a cause",
+        "Advocacy and awareness",
+        "Education and skill-building",
+        "Health and wellness initiatives",
+        "Environmental conservation",
+        "Support for marginalized groups",
+        "Arts and culture promotion",
+        "Other"
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "target_audience",
+      "required": true,
+      "multiple": true,
+      "title": "Target Audience",
+      "description": "Who is the target audience for your non-profit organizational project?",
+      "answers": [
+        "Children and youth",
+        "Elderly population",
+        "People with disabilities",
+        "Underprivileged communities",
+        "Environmental enthusiasts",
+        "Donors and supporters",
+        "Local residents",
+        "Global audience",
+        "Other stakeholders"
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "resources",
+      "required": true,
+      "multiple": true,
+      "title": "Resources Needed",
+      "description": "What resources do you need for your non-profit organizational project?",
+      "answers": [
+        "Volunteers",
+        "Donations and grants",
+        "Funding for programs",
+        "Publicity and media exposure",
+        "Partnerships with other organizations",
+        "Community support",
+        "Awareness campaigns",
+        "Online presence and social media",
+        "Other"
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "success_criteria",
+      "required": false,
+      "multiple": true,
+      "title": "Success Criteria",
+      "description": "How will you measure the success of your non-profit organizational project?",
+      "answers": [
+        "Number of beneficiaries served",
+        "Amount of funds raised",
+        "Policy changes and impact",
+        "Community engagement and participation",
+        "Program effectiveness",
+        "Media coverage and awareness",
+        "Positive feedback from stakeholders",
+        "Other"
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "challenges",
+      "required": false,
+      "multiple": true,
+      "title": "Challenges",
+      "description": "What challenges do you anticipate in implementing your non-profit organizational project?",
+      "answers": [
+        "Limited funding",
+        "Volunteer recruitment and retention",
+        "Reaching the target audience",
+        "Competition with other non-profits",
+        "Navigating legal and regulatory requirements",
+        "Sustainability of programs",
+        "Public perception and trust-building",
+        "Other"
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "additional_notes",
+      "required": false,
+      "multiple": false,
+      "title": "Additional Notes",
+      "description": "Please provide any additional notes or information about your non-profit organizational project.",
+      "answers": []
+    }
+  ]
+}

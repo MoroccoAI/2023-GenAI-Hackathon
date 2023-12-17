@@ -1,0 +1,207 @@
+[
+    {
+        "name": "MIT",
+        "description": "Permissive open-source license. Can be used for both open source and proprietary projects. Allows use, modification, and distribution with minimal restrictions. Must include the MIT license notice.",
+        "count": 278
+    },
+    {
+        "name": "GPL-3.0",
+        "description": "Copyleft open-source license. Requires any modifications or derivatives to be open source under the GPL. Can be used for open source projects, but not for proprietary projects without making them open source.",
+        "count": 182
+    },
+    {
+        "name": "AGPL-3.0",
+        "description": "Copyleft open-source license. Similar to GPL-3.0, but designed for 'software as a service' models. Requires sharing modified versions when used as a service.",
+        "count": 170
+    },
+    {
+        "name": "Apache-2.0",
+        "description": "Permissive open-source license. Allows use, modification, and distribution with certain patent protections and liability limitations. Can be used for both open source and proprietary projects.",
+        "count": 127
+    },
+    {
+        "name": "GPL-2.0",
+        "description": "Copyleft open-source license. Requires any modifications or derivatives to be open source under the GPL. Can be used for open source projects, but not for proprietary projects without making them open source.",
+        "count": 93
+    },
+    {
+        "name": "⊘ Proprietary",
+        "description": "Indicates that the software is proprietary and not released under an open-source license. No specific usage rights are granted.",
+        "count": 47
+    },
+    {
+        "name": "BSD-3-Clause",
+        "description": "Permissive open-source license. Allows use, modification, and distribution with minimal restrictions. Must retain the original copyright notice.",
+        "count": 28
+    },
+    {
+        "name": "MPL-2.0",
+        "description": "Copyleft open-source license. Requires any modifications or derivatives to be open source under the same license. Can be used for open source projects.",
+        "count": 12
+    },
+    {
+        "name": "BSD-2-Clause",
+        "description": "Permissive open-source license. Allows use and distribution with minimal restrictions. Must retain the original copyright notice.",
+        "count": 12
+    },
+    {
+        "name": "LGPL-3.0",
+        "description": "Free software license. Allows use, modification, and distribution with the requirement that any modifications to the LGPL-licensed code remain open source.",
+        "count": 11
+    },
+    {
+        "name": "ISC",
+        "description": "Permissive open-source license with minimal restrictions, similar to the MIT license. Allows use, modification, and distribution.",
+        "count": 8
+    },
+    {
+        "name": "Zlib",
+        "description": "Highly permissive open-source license, similar to the BSD license. Allows use, modification, and distribution with minimal restrictions.",
+        "count": 5
+    },
+    {
+        "name": "LGPL-2.1",
+        "description": "Free software license. Allows use, modification, and distribution with the requirement that any modifications to the LGPL-licensed code remain open source.",
+        "count": 5
+    },
+    {
+        "name": "WTFPL",
+        "description": "Very permissive license that allows users to do whatever they want with the code without any restrictions or obligations.",
+        "count": 5
+    },
+    {
+        "name": "SSPL-1.0",
+        "description": "Controversial license that places restrictions on the use of the software when providing it as a service.",
+        "count": 3
+    },
+    {
+        "name": "EUPL-1.2",
+        "description": "Copyleft license that ensures any modifications or derivatives remain open source and subject to the same license terms.",
+        "count": 3
+    },
+    {
+        "name": "Commons-Clause",
+        "description": "Set of licenses with various terms, often used to limit certain commercial uses of open-source software.",
+        "count": 3
+    },
+    {
+        "name": "Unlicense",
+        "description": "Essentially a public domain dedication, it allows users to do anything they want with the code without any legal obligations.",
+        "count": 3
+    },
+    {
+        "name": "CC-BY-SA-4.0",
+        "description": "Creative Commons license that allows users to use and modify the code, with the requirement that derivative works are shared under the same terms and attribution is given.",
+        "count": 3
+    },
+    {
+        "name": "OSL-3.0",
+        "description": "Copyleft license that requires any modifications or derivatives to be open source and subject to the same license terms.",
+        "count": 3
+    },
+    {
+        "name": "CC-BY-NC-4.0",
+        "description": "Creative Commons license that allows users to use and modify the code for non-commercial purposes, with attribution.",
+        "count": 2
+    },
+    {
+        "name": "Elastic-2.0",
+        "description": "Source-available license used by Elastic for certain software products, with some restrictions on certain use cases.",
+        "count": 2
+    },
+    {
+        "name": "CC0-1.0",
+        "description": "Public domain dedication that allows users to freely use and modify the code with no restrictions.",
+        "count": 2
+    },
+    {
+        "name": "ZPL-2.0",
+        "description": "Permissive open-source license similar to the zlib license, allowing users to use, modify, and distribute the code with minimal restrictions.",
+        "count": 2
+    },
+    {
+        "name": "GPL-1.0",
+        "description": "First version of the GNU General Public License, which enforces open-source principles and requires derived code to also be open source.",
+        "count": 1
+    },
+    {
+        "name": "ECL-2.0",
+        "description": "Permissive open-source license designed for educational and non-profit use.",
+        "count": 1
+    },
+    {
+        "name": "0BSD",
+        "description": "Simplified, permissive variant of the BSD license, essentially a public domain dedication.",
+        "count": 1
+    },
+    {
+        "name": "Artistic-2.0",
+        "description": "Permissive open-source license, often associated with the Perl programming language.",
+        "count": 1
+    },
+    {
+        "name": "CPAL-1.0",
+        "description": "License that permits users to use and modify the code but requires attribution to the original author.",
+        "count": 1
+    },
+    {
+        "name": "BSD-3-Clause-Attribution",
+        "description": "Variant of the BSD license that allows users to use and distribute the code with minimal restrictions while requiring attribution.",
+        "count": 1
+    },
+    {
+        "name": "EPL-1.0",
+        "description": "Permissive open-source license used by the Eclipse Foundation for various software projects.",
+        "count": 1
+    },
+    {
+        "name": "BSD-2-Clause-FreeBSD",
+        "description": "Permissive open-source license used by the FreeBSD operating system, allowing use, modification, and distribution with minimal restrictions.",
+        "count": 1
+    },
+    {
+        "name": "CECILL-B",
+        "description": "French open-source license designed to meet the needs of French public research organizations.",
+        "count": 1
+    },
+    {
+        "name": "MPL-1.1",
+        "description": "Mozilla Public License 1.1, a copyleft license used by the Mozilla Foundation for some of their software projects.",
+        "count": 1
+    },
+    {
+        "name": "CC-BY-SA-3.0",
+        "description": "Creative Commons license that allows users to use and modify the code, with the requirement that derivative works are shared under the same terms and attribution is given.",
+        "count": 1
+    },
+    {
+        "name": "AAL",
+        "description": "Affero General Public License, a copyleft license with additional terms for software services.",
+        "count": 1
+    },
+    {
+        "name": "EPL-2.0",
+        "description": "Permissive open-source license used by the Eclipse Foundation for various software projects.",
+        "count": 1
+    },
+    {
+        "name": "IPL-1.0",
+        "description": "Permissive open-source license used by IBM for various software projects.",
+        "count": 1
+    },
+    {
+        "name": "BSD-4-Clause",
+        "description": "Permissive open-source license, a variant of the BSD license, that allows users to use and distribute the code with minimal restrictions.",
+        "count": 1
+    },
+    {
+        "name": "Sendmail",
+        "description": "Custom open-source license associated with the Sendmail email server software.",
+        "count": 1
+    },
+    {
+        "name": "BUSL-1.1",
+        "description": "Business Source License, a source-available license with restrictions on commercial use.",
+        "count": 1
+    }
+]

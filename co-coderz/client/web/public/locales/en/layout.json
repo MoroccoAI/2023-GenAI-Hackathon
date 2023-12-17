@@ -1,0 +1,93 @@
+{
+    "header": {
+      "logo": {
+        "lightMode": "/logo/logo-dark.png",
+        "darkMode": "/logo/logo-light.png"
+      },
+      "menus": {
+        "loggedIn": [
+          {
+            "text": "Projects",
+            "url": "/projects"
+          },
+          {
+            "text": "Teams",
+            "url": "/teams"
+          },
+          {
+            "text": "Apps",
+            "url": "/apps"
+          },
+          {
+            "text": "Profile",
+            "submenu": [
+              {
+                "text": "Profile",
+                "url": "/profile"
+              },
+              {
+                "text": "Settings",
+                "url": "/settings"
+              },
+              {
+                "text": "Logout",
+                "url": "/logout"
+              }
+            ]
+          }
+        ],
+        "anonymous": [
+          {
+            "text": "How It Works",
+            "url": "#how-it-works"
+          },
+          {
+            "text": "Get Started",
+            "url": "#get-started"
+          }
+        ]
+      }
+    },
+    "footer": {
+      "copyright": "All rights reserved.",
+      "loggedIn": {
+        "additionalLinks": [
+          {
+            "text": "Docs",
+            "url": "/docs"
+          },
+          {
+            "text": "Support",
+            "url": "/support"
+          }
+        ]
+      },
+      "anonymous": {
+        "logo": {
+            "lightMode": "/public/logo/logo-dark.png",
+            "darkMode": "/public/logo/logo-light.png"
+        },
+        "links": [
+          {
+            "text": "Terms of Service",
+            "url": "/terms"
+          },
+          {
+            "text": "Privacy Policy",
+            "url": "/privacy"
+          }
+        ],
+        "socials": [
+          {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/company/hyprsol"
+          },
+          {
+            "platform": "YouTube",
+            "url": "https://youtube.com/user/hyprsol"
+          }
+        ]
+      }
+    }
+  }
+  

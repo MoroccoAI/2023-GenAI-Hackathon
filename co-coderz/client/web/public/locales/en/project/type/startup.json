@@ -1,0 +1,175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "tag": "goal",
+      "required": true,
+      "multiple": false,
+      "title": "Project Goal",
+      "description": "What is the main goal of your startup project?",
+      "answers": [
+        "Launch a new innovative product/service",
+        "Solve a specific problem in the market",
+        "Disrupt an existing industry",
+        "Provide a unique service to customers",
+        "Create a platform for a specific niche",
+        "Other"
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "target_market",
+      "required": true,
+      "multiple": true,
+      "title": "Target Market",
+      "description": "Who is your target market for the startup project?",
+      "answers": [
+        "Tech-savvy individuals",
+        "Business professionals",
+        "Millennials and Gen Z",
+        "Parents and families",
+        "Health and fitness enthusiasts",
+        "Travelers and adventurers",
+        "Students and educators",
+        "Other"
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "competitive_advantage",
+      "required": true,
+      "multiple": true,
+      "title": "Competitive Advantage",
+      "description": "What is your startup's competitive advantage?",
+      "answers": [
+        "Innovative technology",
+        "Unique business model",
+        "Exceptional customer service",
+        "Strong brand identity",
+        "Proprietary algorithms",
+        "Patented products",
+        "Access to exclusive data",
+        "Other"
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "investment",
+      "required": true,
+      "multiple": false,
+      "title": "Investment",
+      "description": "Are you seeking external investment for your startup?",
+      "answers": [
+        "Yes, from venture capitalists",
+        "Yes, from angel investors",
+        "Yes, from crowdfunding",
+        "No, bootstrapping the project",
+        "Undecided"
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "team_members",
+      "required": true,
+      "multiple": true,
+      "title": "Team Members",
+      "description": "What key roles do you need in your startup team?",
+      "answers": [
+        "Co-founders",
+        "Software developers",
+        "Designers",
+        "Marketing specialists",
+        "Sales representatives",
+        "Financial analysts",
+        "Operations managers",
+        "Other"
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "business_plan",
+      "required": false,
+      "multiple": false,
+      "title": "Business Plan",
+      "description": "Do you have a detailed business plan for your startup?",
+      "answers": [
+        "Yes, it's fully developed",
+        "Yes, but still in progress",
+        "No, not yet started",
+        "I don't plan to create one"
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "development_stage",
+      "required": false,
+      "multiple": false,
+      "title": "Development Stage",
+      "description": "What stage is your startup project currently in?",
+      "answers": [
+        "Concept stage (idea phase)",
+        "Prototype development",
+        "Minimum Viable Product (MVP)",
+        "Beta testing",
+        "Product launch",
+        "Post-launch improvements",
+        "Other"
+      ]
+    },
+    {
+      "id": 8,
+      "tag": "marketing_strategy",
+      "required": false,
+      "multiple": true,
+      "title": "Marketing Strategy",
+      "description": "What marketing strategies do you plan to use for your startup?",
+      "answers": [
+        "Social media marketing",
+        "Content marketing",
+        "Influencer marketing",
+        "Email marketing",
+        "Search Engine Optimization (SEO)",
+        "Paid advertising (Google Ads, Facebook Ads)",
+        "Partnerships and collaborations",
+        "Guerrilla marketing",
+        "Other"
+      ]
+    },
+    {
+      "id": 9,
+      "tag": "scaling_plan",
+      "required": false,
+      "multiple": false,
+      "title": "Scaling Plan",
+      "description": "How do you plan to scale your startup in the future?",
+      "answers": [
+        "Expand to new markets/locations",
+        "Increase product/service offerings",
+        "Franchise the business model",
+        "Partner with other companies",
+        "Diversify revenue streams",
+        "International expansion",
+        "Other"
+      ]
+    },
+    {
+      "id": 10,
+      "tag": "challenges",
+      "required": false,
+      "multiple": true,
+      "title": "Challenges",
+      "description": "What challenges do you anticipate in building and growing your startup?",
+      "answers": [
+        "Fierce competition",
+        "Fundraising and securing investment",
+        "Building a strong customer base",
+        "Regulatory compliance",
+        "Hiring and retaining top talent",
+        "Managing cash flow",
+        "Scaling without compromising quality",
+        "Adapting to market changes",
+        "Other"
+      ]
+    }
+  ]
+}

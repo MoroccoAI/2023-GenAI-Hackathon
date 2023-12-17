@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "tag": "project_type",
+        "required": true,
+        "multiple": false,
+        "title": "Project Type",
+        "description": "What type of project are you working on?",
+        "answers": [
+        "A startup",
+        "An academic project",
+        "A personal project",
+        "A business project",
+        "An enterprise project",
+        "A non-profitable project"
+        ]
+    },
+    {
+        "id": 2,
+        "tag": "team_size",
+        "required": true,
+        "multiple": false,
+        "title": "Team Size",
+        "description": "What is the size the team you're working with?",
+        "answers": [
+        "1-9 members",
+        "10-99 members",
+        "100-999 members",
+        "1000+ members",
+        "Undecided"
+        ]
+    },
+    {
+        "id": 3,
+        "tag": "budget",
+        "required": true,
+        "multiple": false,
+        "title": "Budget",
+        "description": "What is your budget for the project?",
+        "answers": [
+        "Less than $1,000",
+        "$1,000 - $10,000",
+        "$10,000 - $100,000",
+        "$100,000 - $1,000,000",
+        "$1,000,000+",
+        "Undecided"
+        ]
+    },
+    {
+        "id": 4,
+        "tag": "timeline",      
+        "required": true,
+        "multiple": false,
+        "title": "Timeline",
+        "description": "What is the timeline for your project?",
+        "answers": [
+        "Less than 3 months",
+        "3-6 months",
+        "6-12 months",
+        "More than 12 months",
+        "Undecided"
+        ]
+    },
+    {
+        "id": 5,
+        "tag": "industry",
+        "required": true,
+        "multiple": false,
+        "title": "Industry",
+        "description": "What industry does your project belong to?",
+        "answers": [
+        "IT/Technology",
+        "Finance/Banking",
+        "Healthcare",
+        "Retail/E-commerce",
+        "Education",
+        "Marketing/Advertising",
+        "Manufacturing",
+        "Entertainment/Media",
+        "Transportation/Logistics",
+        "Agriculture/Energy/Environmental",
+        "Real Estate/Construction",
+        "Other (please specify)"
+        ]
+    },
+    {
+        "id": 6,
+        "tag": "solutions",
+        "required": true,
+        "multiple": true,
+        "title": "IT Solutions",
+        "description": "What type of IT solutions are you looking for?",
+        "answers": [
+        "Software development",
+        "Web development",
+        "Mobile app development",
+        "Database management",
+        "Data storage and backup",
+        "Data analytics and visualization",
+        "Cybersecurity",
+        "Networking and Security",
+        "Cloud computing/infrastructure",
+        "Artificial intelligence and machine learning",
+        "Internet of Things (IoT) solutions",
+        "Virtual and augmented reality (VR/AR) solutions",
+        "Web3/Blockchain",
+        "Other (please specify)"
+        ]
+    }
+]
+    
