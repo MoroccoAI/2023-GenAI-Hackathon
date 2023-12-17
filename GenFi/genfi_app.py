@@ -61,8 +61,6 @@ all_ce = np.load('openai-embed_2023.npy')
 
 def main():
   
-# Rest of your Streamlit app code...
-
     st.header("AI Financial Reports :bar_chart:")
   
     all_ce = np.load('openai-embed_2023.npy', allow_pickle=True)
