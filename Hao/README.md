@@ -12,6 +12,12 @@ In the realm of medical education, students face an uphill battle marked by the 
 
 'Medical Tutor' emerges as the solution to these challenges, offering a tailored approach to learning that leverages advanced technology to provide personalized study materials, generate relevant questions, and foster adaptive learning experiences for aspiring medical professionals.
 
+## Impact
+
+Medical Tutor have the potential to significantly impact the landscape of medical education by offering a tailored and adaptive learning experience. With its personalized study questions and efficient exam preparation features, the app empowers students to navigate the challenges of medical school with greater efficiency and confidence. 
+Medical Tutor not only addresses the individual needs of learners but also contributes to the broader transformation of medical education methodologies. This tool has the potential to enhance comprehension and ultimately shape a more effective and accessible approach to medical education on a global scale.
+
+
 ## Key Features
 
 The key features so far are:
