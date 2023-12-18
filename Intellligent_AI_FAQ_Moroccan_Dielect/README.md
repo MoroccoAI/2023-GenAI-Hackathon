@@ -1,5 +1,7 @@
 # Intelligent AI FAQ Moroccan Dialect
 
+![image](https://github.com/aznagyouness/2023-GenAI-Hackathon/assets/25850854/107ab2e4-8009-4b2e-af39-7d157268a021)
+
 ## Abstract
 
 ### Background and Problem Statement
