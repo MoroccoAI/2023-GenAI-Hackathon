@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Your Ultimate Guide to Open-Source Solutions",
+    "subtitle": "Discover, Compare, and Deploy with Confidence"
+  },
+  "howItWorksSection": {
+    "title": "How It Works",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Create Your Account",
+        "description": "Start by creating a personalized account. It's quick and easy, unlocking access to tailored open-source recommendations just for you.",
+        "image": "/path/to/step1-image.png"
+      },
+      {
+        "stepNumber": 2,
+        "title": "Craft Your Plan",
+        "description": "Define your business needs, budget, and preferences to shape a unique plan. This step helps us understand your requirements better.",
+        "image": "/path/to/step2-image.png"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Initiate Your Project",
+        "description": "Specify software requirements for project management, CRM, and more. Provide the details necessary for our AI analysis.",
+        "image": "/path/to/step3-image.png"
+      },
+      {
+        "stepNumber": 4,
+        "title": "AI Magic Unleashed",
+        "description": "Watch as our AI analyzes your project details, curating personalized open-source software recommendations just for you.",
+        "image": "/path/to/step4-image.png"
+      },
+      {
+        "stepNumber": 5,
+        "title": "Handpicked Recommendations",
+        "description": "Discover curated open-source solutions tailored to your criteria. Dive into detailed feature breakdowns to make informed decisions.",
+        "image": "/path/to/step5-image.png"
+      },
+      {
+        "stepNumber": 6,
+        "title": "Deployment Options",
+        "description": "Choose between self-deployment or professional assistance. Our flexible implementation options cater to your specific needs.",
+        "image": "/path/to/step6-image.png"
+      },
+      {
+        "stepNumber": 7,
+        "title": "Comparison Tables",
+        "description": "Utilize comprehensive tables for informed decisions. Compare solution strengths and nuances to make the right choice for your business.",
+        "image": "/path/to/step7-image.png"
+      },
+      {
+        "stepNumber": 8,
+        "title": "Decision Time",
+        "description": "Select the perfect open-source solution based on your needs, budget, and team dynamics. It's time to make a confident decision.",
+        "image": "/path/to/step8-image.png"
+      },
+      {
+        "stepNumber": 9,
+        "title": "Implementation Made Easy",
+        "description": "Experience a seamless transition from decision to implementation. Our process ensures a hassle-free and efficient experience.",
+        "image": "/path/to/step9-image.png"
+      }
+    ]
+  },
+  "readyToStartSection": {
+    "cta": {
+      "buttonText": "Get Started Now",
+      "description": "Begin your journey with hyprsol today and experience the transformative power of tailored open-source solutions."
+    }
+  }
+}

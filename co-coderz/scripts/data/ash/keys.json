@@ -1,0 +1,34 @@
+{
+    "platforms": {
+        "name": "str",
+        "description": "str",
+        "software_count": "int"
+    },
+    "software": {
+        "name": "str",
+        "website_url": "str",
+        "description": "str",
+        "licenses": "licenses",
+        "platforms": "platforms",
+        "tags": "tags",
+        "source_code_url": "str",
+        "stargazers_count": "int",
+        "updated_at": "str",
+        "archived": "bool",
+        "demo_url": "str",
+        "depends_3rdparty": "bool",
+        "related_software_url": "str"
+    },
+    "tags": {
+        "name": "str",
+        "description": "str",
+        "related_tags": "json",
+        "redirect": "json",
+        "external_links": "json"
+    },
+    "licenses": {
+        "name": "str",
+        "description": "str",
+        "software_count": "int"
+    }
+}

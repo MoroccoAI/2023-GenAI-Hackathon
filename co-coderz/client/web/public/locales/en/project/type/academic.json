@@ -1,0 +1,161 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "tag": "goal",
+      "required": true,
+      "multiple": false,
+      "title": "Project Goal",
+      "description": "What is the main goal of your academic project?",
+      "answers": [
+        "Conduct research",
+        "Develop a thesis or dissertation",
+        "Create a scholarly publication",
+        "Build an educational tool or platform",
+        "Collaborate with other researchers",
+        "Solve a specific academic problem",
+        "Other"
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "research_field",
+      "required": true,
+      "multiple": true,
+      "title": "Research Field",
+      "description": "Which research field does your academic project belong to?",
+      "answers": [
+        "Natural Sciences",
+        "Social Sciences",
+        "Engineering and Technology",
+        "Humanities",
+        "Health Sciences",
+        "Business and Economics",
+        "Education",
+        "Computer Science",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "academic_level",
+      "required": true,
+      "multiple": false,
+      "title": "Academic Level",
+      "description": "What is the academic level of your project?",
+      "answers": [
+        "Undergraduate",
+        "Postgraduate (Master's)",
+        "Doctoral (PhD)",
+        "Postdoctoral",
+        "Other"
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "collaborators",
+      "required": false,
+      "multiple": true,
+      "title": "Collaborators",
+      "description": "Are you working with any collaborators on this academic project?",
+      "answers": [
+        "Yes, I have academic advisors",
+        "Yes, I collaborate with other students",
+        "Yes, I collaborate with researchers from other institutions",
+        "No, I am working individually"
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "data_collection",
+      "required": false,
+      "multiple": true,
+      "title": "Data Collection",
+      "description": "How are you collecting data for your academic project?",
+      "answers": [
+        "Conducting experiments",
+        "Surveys and questionnaires",
+        "Interviews and focus groups",
+        "Literature review and secondary data analysis",
+        "Field research and observations",
+        "Using existing datasets",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "methodology",
+      "required": true,
+      "multiple": true,
+      "title": "Research Methodology",
+      "description": "Which research methodologies are you using for your academic project?",
+      "answers": [
+        "Quantitative research",
+        "Qualitative research",
+        "Mixed-methods approach",
+        "Case study",
+        "Experimental design",
+        "Action research",
+        "Content analysis",
+        "Grounded theory",
+        "Ethnographic research",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "academic_resources",
+      "required": false,
+      "multiple": true,
+      "title": "Academic Resources",
+      "description": "What academic resources are you using for your project?",
+      "answers": [
+        "Library resources",
+        "Online academic databases",
+        "Scientific journals and publications",
+        "Academic conferences and symposiums",
+        "Collaboration with professors and experts",
+        "Laboratory facilities",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 8,
+      "tag": "presentation",
+      "required": false,
+      "multiple": true,
+      "title": "Presentation and Dissemination",
+      "description": "How do you plan to present and disseminate your academic project?",
+      "answers": [
+        "Research paper or thesis",
+        "Academic conference presentation",
+        "Poster presentation",
+        "Publication in academic journals",
+        "Online platforms and repositories",
+        "Departmental seminars and workshops",
+        "Other (please specify)"
+      ]
+    },
+    {
+      "id": 9,
+      "tag": "academic_approval",
+      "required": false,
+      "multiple": false,
+      "title": "Academic Approval",
+      "description": "Have you obtained the necessary approvals from your academic institution for this project?",
+      "answers": [
+        "Yes, I have obtained all required approvals",
+        "No, I am still in the process of obtaining approvals"
+      ]
+    },
+    {
+      "id": 10,
+      "tag": "future_impact",
+      "required": false,
+      "multiple": false,
+      "title": "Future Impact",
+      "description": "What impact do you expect your academic project to have in the future?",
+      "answers": []
+    }
+  ]
+}

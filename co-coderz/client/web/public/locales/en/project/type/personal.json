@@ -1,0 +1,208 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "tag": "goal",
+      "required": true,
+      "multiple": false,
+      "title": "Project Goal",
+      "description": "What is the main goal of your personal project?",
+      "answers": [
+        "Start a personal blog",
+        "Create a portfolio website",
+        "Develop a mobile app for personal use",
+        "Organize personal finances",
+        "Plan a special event",
+        "Build a game or entertainment app",
+        "Learn a new skill or language",
+        "Create digital art or design",
+        "Other"
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "features",
+      "required": true,
+      "multiple": true,
+      "title": "Essential Features",
+      "description": "What features are essential for your personal project?",
+      "answers": [
+        "User-friendly interface",
+        "Responsive design",
+        "Secure data storage",
+        "Integration with social media",
+        "Customizable settings",
+        "Offline access",
+        "Search functionality",
+        "Data backup and recovery",
+        "Payment gateway integration",
+        "Gamification elements",
+        "Augmented reality (AR) features",
+        "Virtual reality (VR) experiences",
+        "Other"
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "expertise",
+      "required": true,
+      "multiple": false,
+      "title": "Technical Expertise",
+      "description": "How much technical expertise do you have?",
+      "answers": [
+        "I'm a complete beginner",
+        "I have some basic knowledge",
+        "I'm an intermediate user",
+        "I'm an experienced developer",
+        "I have professional coding skills",
+        "I'm a tech enthusiast, but no coding experience",
+        "I prefer no-code/low-code solutions",
+        "Other"
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "platform",
+      "required": true,
+      "multiple": false,
+      "title": "Preferred Platform",
+      "description": "What platform do you prefer for your personal project?",
+      "answers": [
+        "Web-based (e.g., website)",
+        "Mobile app (iOS/Android)",
+        "Desktop application",
+        "Smartphone app (WhatsApp, Telegram, etc.)",
+        "Social media platform",
+        "Smart speaker or voice app (Alexa, Google Assistant)",
+        "Doesn't matter",
+        "Other"
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "monetization",
+      "required": true,
+      "multiple": false,
+      "title": "Monetization",
+      "description": "Do you plan to monetize your personal project?",
+      "answers": [
+        "Yes, through advertisements",
+        "Yes, through subscriptions",
+        "Yes, through one-time purchases",
+        "Yes, through affiliate marketing",
+        "Yes, by offering premium content or features",
+        "No, it will be free",
+        "Undecided"
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "resources",
+      "required": true,
+      "multiple": true,
+      "title": "Resources Needed",
+      "description": "What resources do you need for your personal project?",
+      "answers": [
+        "Designers",
+        "Developers",
+        "Content writers",
+        "Project management tools",
+        "Budget allocation",
+        "Hardware equipment",
+        "Online tutorials or courses",
+        "Inspiration from online communities",
+        "Other"
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "design_style",
+      "required": false,
+      "multiple": true,
+      "title": "Preferred Design Style",
+      "description": "What design style do you prefer for your personal project?",
+      "answers": [
+        "Minimalist",
+        "Modern",
+        "Vintage",
+        "Elegant",
+        "Colorful",
+        "Flat",
+        "Material Design",
+        "Illustrative",
+        "Hand-drawn",
+        "Gothic",
+        "Other"
+      ]
+    },
+    {
+      "id": 8,
+      "tag": "target_audience",
+      "required": false,
+      "multiple": true,
+      "title": "Target Audience",
+      "description": "Who is the intended audience for your personal project?",
+      "answers": [
+        "General users",
+        "Young adults",
+        "Children",
+        "Business professionals",
+        "Art enthusiasts",
+        "Educational sector",
+        "Fitness and wellness enthusiasts",
+        "Travel and adventure seekers",
+        "Tech-savvy individuals",
+        "Other"
+      ]
+    },
+    {
+      "id": 9,
+      "tag": "inspiration",
+      "required": false,
+      "multiple": false,
+      "title": "Inspiration",
+      "description": "What inspired you to start this personal project?",
+      "answers": [
+        "Personal interest or hobby",
+        "Solving a specific problem",
+        "Following a trend or challenge",
+        "Inspired by another project or app",
+        "Passion for creativity and innovation",
+        "Professional development and portfolio building",
+        "Other"
+      ]
+    },
+    {
+      "id": 10,
+      "tag": "challenges",
+      "required": false,
+      "multiple": true,
+      "title": "Challenges",
+      "description": "What challenges do you anticipate in building your personal project?",
+      "answers": [
+        "Technical complexity",
+        "Limited budget or resources",
+        "Finding the right team or collaborators",
+        "Time constraints",
+        "Learning new tools or technologies",
+        "Staying motivated and committed",
+        "Balancing with other commitments",
+        "Testing and user feedback",
+        "Other"
+      ]
+    },
+    {
+      "id": 11,
+      "tag": "additional_notes",
+      "required": false,
+      "multiple": false,
+      "title": "Additional Notes",
+      "description": "Please provide any additional notes or information about your personal project.",
+      "answers": [],
+      "user_input": {
+        "type": "text",
+        "placeholder": "Enter any additional notes (optional)"
+      }
+    }
+  ]
+}

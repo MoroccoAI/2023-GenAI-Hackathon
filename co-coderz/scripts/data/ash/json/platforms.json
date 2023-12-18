@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Docker",
+        "description": "[Docker](https://en.wikipedia.org/wiki/Docker_(software)) is a tool that automates the deployment of applications in lightweight containers so that applications can work efficiently in different environments in isolation.",
+        "count": 432
+    },
+    {
+        "name": "PHP",
+        "description": "[PHP](https://en.wikipedia.org/wiki/PHP) is a general-purpose scripting language geared towards web development.",
+        "count": 225
+    },
+    {
+        "name": "Nodejs",
+        "description": "[Node.js](https://en.wikipedia.org/wiki/Node.js) is a back-end JavaScript runtime environment which executes JavaScript code outside a web browser.",
+        "count": 158
+    },
+    {
+        "name": "Python",
+        "description": "[Python](https://en.wikipedia.org/wiki/Python_(programming_language)) is a high-level, general-purpose programming language, supporting multiple programming paradigms, including structured (particularly procedural), object-oriented, and functional programming. Its design philosophy emphasizes code readability.",
+        "count": 143
+    },
+    {
+        "name": "Go",
+        "description": "[Go](https://en.wikipedia.org/wiki/Go_(programming_language)) is a statically typed, compiled high-level programming language.",
+        "count": 104
+    },
+    {
+        "name": "deb",
+        "description": "[deb](https://en.wikipedia.org/wiki/Deb_(file_format)) is the standard package format for Debian GNU/Linux and its derivatives.",
+        "count": 61
+    },
+    {
+        "name": "Java",
+        "description": "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) is a general-purpose, high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Compiled Java code can run on all platforms that support Java without the need to recompile.",
+        "count": 59
+    },
+    {
+        "name": "Ruby",
+        "description": "[Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity.",
+        "count": 47
+    },
+    {
+        "name": "K8S",
+        "description": "[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (commonly abbreviated K8s) is a container orchestration system for automating software deployment, scaling, and management.",
+        "count": 45
+    },
+    {
+        "name": "C",
+        "description": "[C](https://en.wikipedia.org/wiki/C_(programming_language)) is a general-purpose computer programming language.",
+        "count": 40
+    },
+    {
+        "name": "C++",
+        "description": "[C++](https://en.wikipedia.org/wiki/C%2B%2B) is a high-level, general-purpose programming language. First released in 1985 as an extension of the C programming language, it has since expanded significantly.",
+        "count": 35
+    },
+    {
+        "name": "Rust",
+        "description": "[Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, memory safety, and concurrency.",
+        "count": 29
+    },
+    {
+        "name": "Shell",
+        "description": "A [Unix shell](https://en.wikipedia.org/wiki/Unix_shell) is a command-line interpreter that provides a command-line user interface for Unix-like operating systems. The shell is both an interactive command language and a scripting language and is used by the operating system to control the execution of the system using shell scripts.",
+        "count": 23
+    },
+    {
+        "name": "Javascript",
+        "description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS, used on the client side to program webpage behavior. Projects listed here only require serving static HTML/JS files to clients.",
+        "count": 21
+    },
+    {
+        "name": "Perl",
+        "description": "[Perl](https://en.wikipedia.org/wiki/Perl) is a high-level, general-purpose, interpreted, dynamic programming language.",
+        "count": 15
+    },
+    {
+        "name": "C#",
+        "description": "[C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) is a general-purpose high-level programming language supporting multiple paradigms.",
+        "count": 13
+    },
+    {
+        "name": "Unknown",
+        "description": "Unknown programming language, closed-source software.",
+        "count": 11
+    },
+    {
+        "name": "Elixir",
+        "description": "[Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language.",
+        "count": 10
+    },
+    {
+        "name": "Scala",
+        "description": "[Scala](https://en.wikipedia.org/wiki/Scala_(programming_language)) is a strong statically typed high-level general-purpose programming language that supports both object-oriented programming and functional programming.",
+        "count": 7
+    },
+    {
+        "name": "Django",
+        "description": "[Django](https://en.wikipedia.org/wiki/Django_(web_framework)) is a Python-based web framework that follows the model–template–views (MTV) architectural pattern, designed to ease the creation of complex, database-driven websites.",
+        "count": 6
+    },
+    {
+        "name": "Haskell",
+        "description": "[Haskell](https://en.wikipedia.org/wiki/Haskell) is a general-purpose, statically-typed, purely functional programming language. Designed for teaching, research, and industrial applications, Haskell has pioneered a number of programming language features.",
+        "count": 6
+    },
+    {
+        "name": ".NET",
+        "description": "[.NET](https://en.wikipedia.org/wiki/.NET) is a managed computer software framework for Windows, Linux, and macOS operating systems. It is a cross-platform successor to .NET Framework.",
+        "count": 5
+    },
+    {
+        "name": "Ansible",
+        "description": "[Ansible](https://en.wikipedia.org/wiki/Ansible_(software)) is a configuration management, provisioning, and deployment automation tool.",
+        "count": 4
+    },
+    {
+        "name": "Lua",
+        "description": "Lua is a lightweight, high-level, multi-paradigm programming language.",
+        "count": 4
+    },
+    {
+        "name": "Erlang",
+        "description": "[Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) is a general-purpose, concurrent, functional high-level programming language and a garbage-collected runtime system.",
+        "count": 3
+    },
+    {
+        "name": "Deno",
+        "description": "[Deno](https://en.wikipedia.org/wiki/Deno_(software)) is a runtime for JavaScript, TypeScript, and WebAssembly that is based on the V8 JavaScript engine and the Rust programming language.",
+        "count": 2
+    },
+    {
+        "name": "Crystal",
+        "description": "Crystal is a high-level general-purpose, object-oriented, compiled programming language, with syntax inspired by the Ruby language.",
+        "count": 2
+    },
+    {
+        "name": "Dart",
+        "description": "[Dart](https://en.wikipedia.org/wiki/Dart_(programming_language)) is an object-oriented, class-based, garbage-collected language with C-style syntax. It can compile to machine code, JavaScript, or WebAssembly.",
+        "count": 1
+    },
+    {
+        "name": "Assembly",
+        "description": "[Assembly](https://en.wikipedia.org/wiki/Assembly_language) language is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions.",
+        "count": 1
+    },
+    {
+        "name": "PLpgSQL",
+        "description": "[PL/pgSQL](https://en.wikipedia.org/wiki/PL/pgSQL) (Procedural Language/PostgreSQL) is a procedural programming language supported by the PostgreSQL ORDBMS.",
+        "count": 1
+    },
+    {
+        "name": "OCaml",
+        "description": "[OCaml](https://en.wikipedia.org/wiki/OCaml) is a general-purpose, high-level multi-paradigm programming language.",
+        "count": 1
+    },
+    {
+        "name": "Nim",
+        "description": "[Nim](https://en.wikipedia.org/wiki/Nim_(programming_language)) is a general-purpose, multi-paradigm, statically typed, compiled high-level systems programming language.",
+        "count": 1
+    },
+    {
+        "name": "Nix",
+        "description": "[Nix](https://en.wikipedia.org/wiki/Nix_(package_manager)) is a cross-platform package manager that uses a deployment model where software is installed into unique directories generated through cryptographic hashes. It is also the name of the tool's programming language.",
+        "count": 1
+    },
+    {
+        "name": "Objective-C",
+        "description": "[Objective-C](https://en.wikipedia.org/wiki/Objective-C) is a high-level general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.",
+        "count": 1
+    },
+    {
+        "name": "Mono",
+        "description": "[Mono](https://en.wikipedia.org/wiki/Mono_(software)) is a .NET Framework-compatible software framework.",
+        "count": 0
+    },
+    {
+        "name": "CommonLisp",
+        "description": "Common Lisp (CL) is a dialect of Lisp, a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.",
+        "count": 0
+    },
+    {
+        "name": "Haxe",
+        "description": "[Haxe](https://en.wikipedia.org/wiki/Haxe) is a high-level cross-platform programming language and compiler that can produce applications and source code for many different computing platforms from one code-base.",
+        "count": 0
+    }
+]
