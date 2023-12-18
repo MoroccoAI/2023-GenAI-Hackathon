@@ -20,14 +20,16 @@ We recognize the pressing need to bridge these gaps and empower individuals to b
 At EcoQ, our mission is to drive transformative change at both the individual and community levels, creating a collective impact on the environment. Through empowering individuals, we serve as catalysts for change, encouraging them to report environmental concerns and actively participate in fostering an eco-friendly mindset. Our platform guides individuals towards embracing sustainable practices, sparking a revolution that transcends individual actions. Through community collaboration, EcoQ cultivates a strong sense of unity, where every member becomes an eco-warrior contributing to a shared vision of positive change. From reports to tangible results, we are committed to making a lasting environmental impact. Concerned individuals are not just contributors but the driving force behind the development and implementation of environmentally conscious policies. At EcoQ, we believe in the power of each person's actions to collectively shape a greener, more sustainable future for our planet.
 
 ## Reproducibility Guide
-- For the server
+- **For the server:**
   Get the quatized mistral 7B from [mistral-7b-instruct-v0.2.Q4_K_M.gguf](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/tree/main)
   ```python
       python app.py
   ```
-- To get your docker image
+- To get your Docker image:
   ```shell
   docker buildx  build -t local-genai:v1 .
   docker run -p 1010:1010 local-genai:v1 
   ```
-  
+- To experiment with the Android app using Android Studio:
+  - Setup the server.
+  - Run the app in an emulator or on your phone.
