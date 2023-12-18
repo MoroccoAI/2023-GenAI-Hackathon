@@ -1,0 +1,8 @@
+﻿fastapi==0.103.2
+ctransformers==0.2.27
+uvicorn==0.23.2
+llama_cpp_python==0.2.23
+accelerate==0.20.3
+transformers==4.29.2
+torch==2.0.1
+gradio_client==0.6.0

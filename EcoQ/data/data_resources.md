@@ -1,0 +1,5 @@
+- small, contains some q&a about Environmental Science : https://huggingface.co/datasets/BaffledCoder/EnvironmentalScience
+- companies environmental claims : https://huggingface.co/datasets/climatebert/environmental_claims
+- https://huggingface.co/datasets/caoyq/environments
+- contains small env related paragraphs, text classification (env-related & non env-related): https://huggingface.co/datasets/ESGBERT/environmental_2k
+- text data related to env, small paragraphs https://huggingface.co/datasets/ESGBERT/environment_data

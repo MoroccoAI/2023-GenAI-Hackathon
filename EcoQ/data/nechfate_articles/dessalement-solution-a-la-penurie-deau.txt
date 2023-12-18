@@ -1,0 +1,49 @@
+Face au risque grandissant de pénurie d’eau (cf. article à venir sur la pénurie d’eau), le Maroc a adapté son plan national de gestion de l’eau à travers le Programme National pour l’Approvisionnement en Eau Potable et l’Irrigation (
+
+Afin d’augmenter l’offre en eau, le Programme prévoit non seulement la construction de 20 nouveaux barrages mais aussi de plusieurs stations de dessalement. En réduisant la quantité de sel présente dans de l’eau salée (et les
+
+En rendant exploitables les eaux du long littoral marocain, le dessalement est une technologie prometteuse. Mais va-t-elle suffire à éliminer le risque de pénurie d’eau ?
+
+Des projets ambitieux à l'horizon 2030
+
+Le dessalement n’est pas un procédé nouveau au Maroc, les premières unités ayant vu le jour dès les années 1970 à Boujdour et Tarfaya. Depuis, une demi douzaine de stations ont été construites (cf. carte) pour une capacité totale de dessalement de 100.000 mètres cubes par jour. Les projets futurs sont bien plus ambitieux : entre
+
+La pénurie d’eau potable de la plus grande ville du pays semble ainsi solutionnée, mais à quel prix ?
+
+le triple coût du dessalement
+
+Éliminer le sel de l'eau de mer n'est pas aussi facile qu'il n'y paraît. Dessaler l’eau de mer est un procédé complexe et coûteux, sur le plan énergétique, financier et environnemental et ce, quel que soit le procédé utilisé. Il peut être effectué selon deux types de procédés: thermiques, par distillation par exemple, ou membranaires, moins énergivores ; l’osmose inverse étant le procédé membranaire le plus courant. Au Maroc, c’est l’osmose inverse qui sera le plus probablement privilégiée pour les unités futures d’après
+
+Pour plus de détails techniques sur les différents procédés de dessalement, une description détaillée en est faite dans certains
+
+Coût énergétique : de quoi augmenter de 13 % notre facture énergétique
+
+Le chiffre : 4-6 kWh/m3
+
+Prenons l’exemple de Casablanca. En considérant que toute l’eau potable proviendra de la future station de dessalement de la région, plus de 117 kWh d’électricité seraient nécessaires pour couvrir l’intégralité des besoins annuels en eau potable d’un seul Casablancais, soit
+
+Pour un usage agricole, les besoins en eau dessalée sont bien plus élevés : 4000 à 6000 mètres cubes par hectare chaque année. En considérant les
+
+Coût financier : le dessalement, une solution raisonnable pour l’eau potable et pour de rares cultures
+
+Le chiffre : 0.45–2.51 $/m3 (moyenne sur 5 pays) - 0.9$-10 dhs/m3 (Maroc)
+
+Le coût de production du mètre cube d’eau dessalée est très variable, selon le montant de l’investissement initial, la capacité de l’installation et le coût de l’énergie. Le coût cité en dollars est issu d’une
+
+Il resterait toutefois supérieur au prix des souscriptions actuelles des agriculteurs aux fournisseurs publics d’eau destinée à l’irrigation (les Offices Régionaux de Mise en Valeur Agricole et l’Agence des Bassins Hydrauliques), ne dépassant pas
+
+
+
+Coût environnemental : vers une augmentation significative des émissions du Maroc
+
+Le chiffre : 0.4–6.7 kg CO2eq/m3
+
+Les émissions de gaz à effet de serre (GES) liées au dessalement sont essentiellement issues de la production électrique nécessaire à faire fonctionner la station. Elles dépendent donc des besoins électriques du procédé utilisé et du mix énergétique du pays concerné.
+
+Au coût carbone du dessalement doit aussi s’ajouter le coût environnemental, plus difficile à quantifier, du rejet de saumure (eau très concentrée en sel) contenant des résidus de produits chimiques (cuivre, chlore) par chaque station. Pour chaque litre d’eau dessalée, une unité de dessalement doit rejeter
+
+loin de la solution miracle, un levier parmi d'autres
+
+Il est clair que pour sécuriser l’approvisionnement en eau, la stratégie gouvernementale ne peut pas reposer uniquement sur un procédé aussi énergivore que le dessalement. Ainsi le PNAEPI prévoit également de développer le traitement et la réutilisation des eaux usées, notamment pour l’arrosage des espaces verts urbains. Une prochaine étape pourrait être de suivre l’exemple d’autres pays du pourtour méditerranéen, en généralisant l’utilisation des eaux usées recyclées à l’irrigation agricole.
+
+Mais ce n’est pas suffisant, car l’agriculture

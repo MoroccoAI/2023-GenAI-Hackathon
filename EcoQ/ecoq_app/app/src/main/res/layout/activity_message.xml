@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:bind="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Title TextView -->
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:text="ECOCHAT"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <!-- RecyclerView for Messages -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerViewMessages"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_below="@id/titleText"
+            android:layout_above="@+id/msgData"
+            android:layout_marginTop="8dp"
+            android:layout_weight="1"/>
+
+        <!-- Message Input Layout -->
+        <LinearLayout
+            android:id="@+id/msgData"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal"
+            android:visibility="visible"
+            android:weightSum="2">
+
+            <!-- Text Input -->
+            <LinearLayout
+                android:id="@+id/messageLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.8"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <!-- Message EditText -->
+                <EditText
+                    android:id="@+id/msgText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="3dp"
+                    android:layout_marginEnd="3dp"
+                    android:hint="Write message.."
+                    android:inputType="textMultiLine"
+                    android:padding="8dp"
+                    android:scrollbars="vertical" />
+
+            </LinearLayout>
+
+            <!-- Record Button -->
+            <com.devlomi.record_view.RecordButton
+                android:id="@+id/recordButton"
+                android:layout_width="0dp"
+                android:layout_height="38dp"
+                android:layout_gravity="center|bottom"
+                android:layout_marginEnd="5dp"
+                android:layout_weight=".2"
+                android:background="@drawable/recv_ic_mic"
+                android:scaleType="center"
+                android:tint="@color/colorAccent"
+                />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</layout>

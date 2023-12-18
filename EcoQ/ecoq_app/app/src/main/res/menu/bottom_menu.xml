@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/report"
+        android:title="Report"
+        android:icon="@drawable/baseline_flag_24"/>
+
+    <item
+        android:id="@+id/engage"
+        android:title="Engage"
+        android:icon="@drawable/baseline_engage_24" />
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:id="@+id/ecoChat"
+        android:title="EcoChat"
+        android:icon="@drawable/baseline_chat_24"/>
+
+    <item
+        android:id="@+id/explore"
+        android:title="Explore"
+        android:icon="@drawable/baseline_local_library_24"/>
+
+</menu>
