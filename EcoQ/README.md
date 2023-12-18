@@ -21,15 +21,17 @@ At EcoQ, our mission is to drive transformative change at both the individual an
 
 ## Reproducibility Guide
 - **For the server:**
-  Get the quatized mistral 7B from [mistral-7b-instruct-v0.2.Q4_K_M.gguf](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/tree/main)
-  ```python
-      python app.py
-  ```
+Get the quatized mistral 7B from [mistral-7b-instruct-v0.2.Q4_K_M.gguf](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/tree/main)
+```python
+  python app.py
+```
 - To get your Docker image:
-  ```shell
-  docker buildx  build -t local-genai:v1 .
-  docker run -p 1010:1010 local-genai:v1 
-  ```
+```sh
+docker buildx  build -t local-genai:v1 .
+```
+```shell
+docker run -p 1010:1010 local-genai:v1 
+```
 - To experiment with the Android app using Android Studio:
   - Setup the server.
   - Run the app in an emulator or on your phone.
