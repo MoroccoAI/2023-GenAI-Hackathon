@@ -1,0 +1,7 @@
+langchain
+sentence-transformers
+transformers
+faiss-gpu
+PyPDF2
+torch
+llama-cpp-python
