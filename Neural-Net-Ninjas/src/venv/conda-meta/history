@@ -1,0 +1,14 @@
+==> 2023-12-16 22:33:12 <==
+# cmd: C:\anaconda\Scripts\conda-script.py create -p venv python==3.9 -y
+# conda version: 23.7.2
++defaults/noarch::tzdata-2023c-h04d1e81_0
++defaults/win-64::ca-certificates-2023.08.22-haa95532_0
++defaults/win-64::openssl-1.1.1w-h2bbff1b_0
++defaults/win-64::pip-23.3.1-py39haa95532_0
++defaults/win-64::python-3.9.0-h6244533_2
++defaults/win-64::setuptools-68.2.2-py39haa95532_0
++defaults/win-64::sqlite-3.41.2-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wheel-0.41.2-py39haa95532_0
+# update specs: ['python==3.9']
